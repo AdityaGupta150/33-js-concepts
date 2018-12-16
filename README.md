@@ -542,13 +542,13 @@
 
 ### Articles
 
- * 📜 [JavaScript Functional Programming — map, filter and reduce — Bojan Gvozderac](https://medium.com/jsguru/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d)
- * 📜 [Learn map, filter and reduce in Javascript — João Miguel Cunha](https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4)
- * 📜 [JavaScript’s Map, Reduce, and Filter — Dan Martensen](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
- * 📜 [How to Use Map, Filter, & Reduce in JavaScript — Peleke Sengstacke](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)
- * 📜 [JavaScript — Learn to Chain Map, Filter, and Reduce — Brandon Morelli](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4)
- * 📜 [Javascript data structure with map, reduce, filter and ES6 — Deepak Gupta](https://codeburst.io/write-beautiful-javascript-with-%CE%BB-fp-es6-350cd64ab5bf)
- * 📜 [Understanding map, filter and reduce in Javascript — Luuk Gruijs](https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464)
+ * 📜 [जावास्क्रिप्ट कार्यात्मक प्रोग्रामिंग - मानचित्र, फ़िल्टर और कम करें - बोजन ग्वाज़ेडरैक](https://medium.com/jsguru/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d)
+ * 📜 [मानचित्र जानें, फ़िल्टर करें और जावास्क्रिप्ट में कम करें - जोआओ मिगुएल कुन्हा](https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4)
+ * 📜 [जावास्क्रिप्ट का नक्शा, घटाएं, और फ़िल्टर - डैन मार्टेंसन](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
+ * 📜 [जावास्क्रिप्ट में मानचित्र, फ़िल्टर, और कमी का उपयोग कैसे करें - Peleke Sengstacke](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)
+ * 📜 [जावास्क्रिप्ट - चेन मानचित्र, फ़िल्टर, और कम करने के लिए जानें - ब्रैंडन मोरेली](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4)
+ * 📜 [मानचित्र, कम, फ़िल्टर और ES6 - दीपक गुप्ता के साथ जावास्क्रिप्ट डेटा संरचना](https://codeburst.io/write-beautiful-javascript-with-%CE%BB-fp-es6-350cd64ab5bf)
+ * 📜 [मानचित्र को समझना, जावास्क्रिप्ट में फ़िल्टर करना और कम करना - लुकू ग्रुइज](https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464)
  * 📜 [Functional Programming in JS: map, filter, reduce (Pt. 5) — Omer Goldberg](https://hackernoon.com/functional-programming-in-js-map-filter-reduce-pt-5-308a205fdd5f)
  * 📜 [JavaScript: Map, Filter, Reduce — William S. Vincent](https://wsvincent.com/functional-javascript-map-filter-reduce/)
  * 📜 [Arrow Functions: Fat and Concise Syntax in JavaScript — Kyle Pennell](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
