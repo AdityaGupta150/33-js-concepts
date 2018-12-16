@@ -3,7 +3,7 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  33 संकल्पना प्रत्येक जावास्क्रिप्ट डेवलपर को पता होना चाहिए
   <br><br>
 </h1>
 
@@ -19,17 +19,17 @@
   </a>
 </p>
 
-## Introduction
+## परिचय
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+यह संग्रह जावास्क्रिप्ट में अपनी अवधारणाओं को मास्टर करने में मदद करने के इरादे से बनाया गया था। यह एक आवश्यकता नहीं है, लेकिन भविष्य के अध्ययन के लिए एक गाइड है। यह एक लेख पर आधारित है [Stephen Curtis](https://twitter.com/stephenthecurt) और आप इसे पढ़ सकते हैं [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 गिटहब द्वारा एक के रूप में माना जाता है [2018 की शीर्ष ओपन सोर्स परियोजनाएं!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-## Community
+## समुदाय
 
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+एक पीआर जमा करने के लिए स्वतंत्र महसूस करें अपने स्वयं के रिकैप्स या समीक्षाओं के लिए एक लिंक जोड़ना। यदि आप रेपो को अपनी मूल भाषा में अनुवाद करना चाहते हैं, तो कृपया ऐसा करने में संकोच न करें।
 
-All the translations for this repo will be listed below:
+इस रेपो के लिए सभी अनुवाद नीचे सूचीबद्ध होंगे:
 
 - [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
 - [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
@@ -41,10 +41,11 @@ All the translations for this repo will be listed below:
 - [Polish](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
 - [Persian](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
 - [Indonesian](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
+- [Hindi](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan 
 
 ---
 
-## Table of Contents
+## विषय - सूची
 
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
@@ -85,37 +86,37 @@ All the translations for this repo will be listed below:
 
 ## 1. Call Stack
 
-### Articles
+### सामग्री
 
- * 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
- * 📜 [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
- * 📜 [Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi](https://www.valentinog.com/blog/js-execution-context-call-stack/)
- * 📜 [What is the JS Event Loop and Call Stack? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
- * 📜 [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
- * 📜 [Understanding Execution Context and Execution Stack in Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
- * 📜 [How JavaScript Works: An Overview of the Engine, the Runtime, and the Call Stack — Alexander Zlatkov](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
- * 📜 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+ * 📜 [जावास्क्रिप्ट कॉल स्टैक को समझना, इवेंट लूप्स - गौरव पांडविया](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+ * 📜 [जावास्क्रिप्ट कॉल स्टैक को समझना - चार्ल्स फ्रीबर्न](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
+ * 📜 [जावास्क्रिप्ट: निष्पादन संदर्भ क्या है? कॉल स्टैक क्या है? - वैलेंटाइनो गैग्लर्डी](https://www.valentinog.com/blog/js-execution-context-call-stack/)
+ * 📜 [जेएस इवेंट लूप और कॉल स्टैक क्या है? - जेस टेलफोर्ड](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
+ * 📜 [कॉल स्टैक - एमडीएन](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+ * 📜 [जावास्क्रिप्ट में निष्पादन संदर्भ और निष्पादन ढेर को समझना - सुखजींदर अरोड़ा](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+ * 📜 [जावास्क्रिप्ट कैसे काम करता है: इंजन का अवलोकन, रनटाइम, और कॉल स्टैक - अलेक्जेंडर ज़्लाटकोव](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+ * 📜 [जावास्क्रिप्ट में निष्पादन संदर्भ, उत्थान, स्कोप्स, और क्लोजर के लिए अंतिम गाइड - टायलर मैकगिनीस](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
 
-### Videos
+### वीडियो
 
- * 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
- * 🎥 [The JS Call Stack Explained In 9 Minutes — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
- * 🎥 [JavaScript Execution Stack — Codecademy](https://www.youtube.com/watch?v=jT0USJeNFEA)
- * 🎥 [What is the Call Stack? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
- * 🎥 [The Call Stack — Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
- * 🎥 [Understanding JavaScript Execution — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
- * 🎥 [Call Stack & Event Loop — movies com](https://www.youtube.com/watch?v=mk0lu9MKBto)
- * 🎥 [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
+ * 🎥 [जावास्क्रिप्ट: कॉल स्टैक समझाया - कोडिंग ब्लॉक भारत](https://www.youtube.com/watch?v=w6QGEiQceOM)
+ * 🎥 [जेएस कॉल स्टैक 9 मिनट में समझाया गया - कोल्ट स्टील](https://www.youtube.com/watch?v=W8AeMrVtFLY)
+ * 🎥 [जावास्क्रिप्ट निष्पादन ढेर - कोडेकैडी](https://www.youtube.com/watch?v=jT0USJeNFEA)
+ * 🎥 [कॉल स्टैक क्या है? - एरिक ट्रब](https://www.youtube.com/watch?v=w7QWQlkLY_s)
+ * 🎥 [कॉल स्टैक - केविन ड्रम](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+ * 🎥 [जावास्क्रिप्ट निष्पादन को समझना - कोड्समिथ](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+ * 🎥 [कॉल स्टैक एंड इवेंट लूप - मूवीज़ कॉम](https://www.youtube.com/watch?v=mk0lu9MKBto)
+ * 🎥 [जावास्क्रिप्ट में निष्पादन संदर्भ, उत्थान, स्कोप्स, और क्लोजर के लिए अंतिम गाइड - टायलर मैकगिनीस](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
 ## 2. Primitive Types
 
-### Articles
+### सामग्री
 
- * 📜 [How numbers are encoded in JavaScript — Dr. Axel Rauschmayer](http://2ality.com/2012/04/number-encoding.html)
+ * 📜 [कैसे संख्या जावास्क्रिप्ट में एन्कोड किया गया है - डॉ एक्सेल रौशमेयर](http://2ality.com/2012/04/number-encoding.html)
  * 📜 [What You Need to Know About JavaScript Number Type — Max Wizard K](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
  * 📜 [What Every JavaScript Developer Should Know About Floating Point Numbers — Chewxy](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
  * 📜 [The Secret Life of JavaScript Primitives — Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
