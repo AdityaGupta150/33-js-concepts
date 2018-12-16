@@ -335,43 +335,43 @@
 
 ### सामग्री
 
- * 📜 [JavaScript Engines — Jen Looper](http://www.softwaremag.com/javascript-engines/)
- * 📜 [Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code — DroidHead](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
- * 📜 [Understanding V8’s Bytecode — Franziska Hinkelmann](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
- * 📜 [How the V8 engine works? — Thibault Laurens](http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/)
- * 📜 [A Brief History of Google’s V8 Javascript Engine — Clair Smith](https://www.mediacurrent.com/blog/brief-history-googles-v8-javascript-engine/)
- * 📜 [JavaScript essentials: why you should know how the engine works - Rainer Hahnekamp](https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553)
+ * 📜 [जावास्क्रिप्ट इंजन - जेन लूपर](http://www.softwaremag.com/javascript-engines/)
+ * 📜 [यह समझना कि क्रोम वी 8 इंजन जावास्क्रिप्ट को मशीन कोड में कैसे अनुवादित करता है - DroidHead](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
+ * 📜 [वी 8 के बाइटकोड को समझना - फ्रांजिसका हिंकेलमैन](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+ * 📜 [वी 8 इंजन कैसे काम करता है? - थिबॉल्ट लॉरेन](http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/)
+ * 📜 [Google के वी 8 जावास्क्रिप्ट इंजन का एक संक्षिप्त इतिहास - क्लेयर स्मिथ](https://www.mediacurrent.com/blog/brief-history-googles-v8-javascript-engine/)
+ * 📜 [जावास्क्रिप्ट आवश्यक: आपको क्यों पता होना चाहिए कि इंजन कैसे काम करता है - रेनर हैनकेम्प](https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553)
 
 
-### Videos
+### वीडियो
 
- * 🎥 [JavaScript Engines: The Good Parts™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
-
-**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
-
----
-
-## 12. Bitwise Operators, Type Arrays and Array Buffers
-
-### Articles
-
- * 📜 [Programming with JS: Bitwise Operations — Alexander Kondov](https://hackernoon.com/programming-with-js-bitwise-operations-393eb0745dc4)
- * 📜 [Using JavaScript’s Bitwise Operators in Real Life — ian m](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
- * 📜 [JavaScript Bitwise Operators — w3resource](https://www.w3resource.com/javascript/operators/bitwise-operator.php)
- * 📜 [Bitwise Operators in Javascript — Joe Cha](https://medium.com/bother7-blog/bitwise-operators-in-javascript-65c4c69be0d3)
- * 📜 [A Comprehensive Primer on Binary Computation and Bitwise Operators in Javascript — Paul Brown](https://medium.com/techtrument/a-comprehensive-primer-on-binary-computation-and-bitwise-operators-in-javascript-81acf8341f04)
-
- ### Videos
-
- * 🎥 [JavaScript Bitwise Operators — Programming with Mosh](https://www.youtube.com/watch?v=mesu75PTDC8)
+ * 🎥 [जावास्क्रिप्ट इंजन: गुड पार्ट्स ™ - माथीस बायेंस और बेनेडिक्ट मेयूर](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
-## 13. DOM and Layout Trees
+## 12. बिटवाई ऑपरेटर, टाइप एरे और ऐरे बफर
 
-### Articles
+### सामग्री
+
+ * 📜 [जेएस के साथ प्रोग्रामिंग: बिटवाई ऑपरेशंस - अलेक्जेंडर कोंडोव](https://hackernoon.com/programming-with-js-bitwise-operations-393eb0745dc4)
+ * 📜 [रीयल लाइफ में जावास्क्रिप्ट के बिटवाईयर ऑपरेटरों का उपयोग करना - इयान एम](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
+ * 📜 [जावास्क्रिप्ट बिटवाई ऑपरेटर्स - w3resource](https://www.w3resource.com/javascript/operators/bitwise-operator.php)
+ * 📜 [जावास्क्रिप्ट में बिटवाई ऑपरेटर - जो चा](https://medium.com/bother7-blog/bitwise-operators-in-javascript-65c4c69be0d3)
+ * 📜 [जावास्क्रिप्ट में बाइनरी गणना और बिटवाई ऑपरेटरों पर एक व्यापक प्राइमर - पॉल ब्राउन](https://medium.com/techtrument/a-comprehensive-primer-on-binary-computation-and-bitwise-operators-in-javascript-81acf8341f04)
+
+ ### वीडियो
+
+ * 🎥 [जावास्क्रिप्ट बिटवे ऑपरेटर्स - मोश के साथ प्रोग्रामिंग](https://www.youtube.com/watch?v=mesu75PTDC8)
+
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
+
+---
+
+## 13. डोम और लेआउट पेड़
+
+### सामग्री
 
  * 📜 [How To Understand and Modify the DOM in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
  * 📜 [What’s the Document Object Model, and why you should know how to use it — Leonardo Maldonado](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
