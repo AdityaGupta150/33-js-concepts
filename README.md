@@ -142,27 +142,27 @@
 ### सामग्री
 
  * 📜 [जावास्क्रिप्ट में मूल्य बनाम संदर्भ समझाएं - अर्नाव अग्रवाल](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
- * 📜 [Understand Value and Reference Types in JavaScript — Zsolt Nagy](https://www.zsoltnagy.eu/understand-value-and-reference-types-in-javascript/)
- * 📜 [Primitive Types & Reference Types in JavaScript — Bran van der Meer](https://gist.github.com/branneman/7fb06d8a74d7e6d4cbcf75c50fec599c)
- * 📜 [Value Types, Reference Types and Scope in JavaScript — Ben Aston](https://medium.com/@benastontweet/lesson-1b-javascript-fundamentals-380f601ba851)
- * 📜 [Back to roots: JavaScript Value vs Reference — Miro Koczka](https://medium.com/dailyjs/back-to-roots-javascript-value-vs-reference-8fb69d587a18)
- * 📜 [Grasp “By Value” and “By Reference” in JavaScript — Léna Faure](https://hackernoon.com/grasp-by-value-and-by-reference-in-javascript-7ed75efa1293)
- * 📜 [JavaScript Reference and Copy Variables — Vítor Capretz](https://hackernoon.com/javascript-reference-and-copy-variables-b0103074fdf0)
- * 📜 [JavaScript Primitive vs Reference Values](http://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
- * 📜 [JavaScript by Reference vs. by Value — nrabinowitz](https://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value)
+ * 📜 [जावास्क्रिप्ट में मूल्य और संदर्भ प्रकार को समझें - ज़ोल्ल्ट नागी](https://www.zsoltnagy.eu/understand-value-and-reference-types-in-javascript/)
+ * 📜 [जावास्क्रिप्ट में आदिम प्रकार और संदर्भ प्रकार - ब्रान वैन डेर मीर](https://gist.github.com/branneman/7fb06d8a74d7e6d4cbcf75c50fec599c)
+ * 📜 [जावास्क्रिप्ट में मूल्य प्रकार, संदर्भ प्रकार और दायरा - बेन एस्टन](https://medium.com/@benastontweet/lesson-1b-javascript-fundamentals-380f601ba851)
+ * 📜 [जड़ों पर वापस: जावास्क्रिप्ट वैल्यू बनाम संदर्भ - मिरो कोक्ज़ा](https://medium.com/dailyjs/back-to-roots-javascript-value-vs-reference-8fb69d587a18)
+ * 📜 [जावास्क्रिप्ट में "मूल्य से" और "संदर्भ द्वारा" समझें - लेना फॉरेर](https://hackernoon.com/grasp-by-value-and-by-reference-in-javascript-7ed75efa1293)
+ * 📜 [जावास्क्रिप्ट संदर्भ और प्रतिलिपि चर - विटर कैपरेज़](https://hackernoon.com/javascript-reference-and-copy-variables-b0103074fdf0)
+ * 📜 [जावास्क्रिप्ट आदिम बनाम संदर्भ मान](http://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
+ * 📜 [संदर्भ बनाम मूल्य द्वारा जावास्क्रिप्ट - नबिनिनोवित्ज़](https://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value)
 
-### Videos
+### वीडियो
 
- * 🎥 [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
- * 🎥 [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
+ * 🎥 [जावास्क्रिप्ट पास वैल्यू बनाम पास द्वारा संदर्भ - टेकसिथ](https://www.youtube.com/watch?v=E-dAnFdq8k8)
+ * 🎥 [जावास्क्रिप्ट वैल्यू बनाम संदर्भ प्रकार - मोश के साथ प्रोग्रामिंग](https://www.youtube.com/watch?v=fD0t_DKREbE)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
-## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
+## 4. लागू, स्पष्ट, नाममात्र, संरचनात्मक और बतख टाइपिंग
 
-### Articles
+### सामग्री
 
  * 📜 [What you need to know about Javascript's Implicit Coercion — Promise Tochi](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
  * 📜 [JavaScript Type Coercion Explained — Alexey Samoshkin](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
