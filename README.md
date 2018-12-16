@@ -190,33 +190,33 @@
  * 📜 [जेएस में =, ==, और === के बीच क्या अंतर है? - कोडेकैडी](https://www.codecademy.com/en/forum_questions/558ea4f5e39efed371000508)
  * 📜 [क्या मुझे जावास्क्रिप्ट में === या == समानता तुलना ऑपरेटर का उपयोग करना चाहिए? - पनु पिटककाकी](https://bytearcher.com/articles/equality-comparison-operator-javascript/)
  * 📜 [== बनाम === जावास्क्रिप्ट: डबल बराबर और जबरन - एजे मेघानी](https://www.codementor.io/javascript/tutorial/double-equals-and-coercion-in-javascript)
- * 📜 [Why Use the Triple-Equals Operator in JavaScript? — Louis Lazaris](https://www.impressivewebs.com/why-use-triple-equals-javascipt/)
- * 📜 [What is the difference between == and === in JavaScript? — Craig Buckler](https://www.oreilly.com/learning/what-is-the-difference-between-and-in-javascript)
- * 📜 [Why javascript's typeof always return "object"? — Stack Overflow](https://stackoverflow.com/questions/3787901/why-javascripts-typeof-always-return-object)
- * 📜 [Checking Types in Javascript — Toby Ho](http://tobyho.com/2011/01/28/checking-types-in-javascript/)
- * 📜 [How to better check data types in JavaScript — Webbjocke](https://webbjocke.com/javascript-check-data-types/)
- * 📜 [Checking for the Absence of a Value in JavaScript — Tomer Aberbach](https://tomeraberba.ch/html/post/checking-for-the-absence-of-a-value-in-javascript.html)
+ * 📜 [जावास्क्रिप्ट में ट्रिपल-बराबर ऑपरेटर का उपयोग क्यों करें? - लुई लाज़रिस](https://www.impressivewebs.com/why-use-triple-equals-javascipt/)
+ * 📜 [जावास्क्रिप्ट में == और === के बीच क्या अंतर है? क्रेग बकलर](https://www.oreilly.com/learning/what-is-the-difference-between-and-in-javascript)
+ * 📜 [क्यों जावास्क्रिप्ट का टाइप हमेशा "ऑब्जेक्ट" लौटाता है? - स्टैक ओवरफ़्लो](https://stackoverflow.com/questions/3787901/why-javascripts-typeof-always-return-object)
+ * 📜 [जावास्क्रिप्ट में प्रकार की जांच - टोबी हो](http://tobyho.com/2011/01/28/checking-types-in-javascript/)
+ * 📜 [जावास्क्रिप्ट में डेटा प्रकारों को बेहतर तरीके से कैसे जांचें - वेबबॉक](https://webbjocke.com/javascript-check-data-types/)
+ * 📜 [जावास्क्रिप्ट में एक मूल्य की अनुपस्थिति की जांच - टॉमर एबरबैक](https://tomeraberba.ch/html/post/checking-for-the-absence-of-a-value-in-javascript.html)
 
-### Videos
+### वीडियो
 
- * 🎥 [JavaScript - The typeof operator — Java Brains](https://www.youtube.com/watch?v=ol_su88I3kw)
- * 🎥 [Javascript typeof operator — DevDelight](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
+ * 🎥 [जावास्क्रिप्ट - टाइपफ ऑपरेटर - जावा दिमाग](https://www.youtube.com/watch?v=ol_su88I3kw)
+ * 🎥 [जावास्क्रिप्ट टाइपोफ ऑपरेटर - देवडेलाइट](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
-## 6. Function Scope, Block Scope and Lexical Scope
+## 6. फंक्शन स्कोप, ब्लॉक स्कोप और लेक्सिकल स्कोप
 
-### Articles
+### सामग्री
 
- * 📜 [You Don't Know JS: Scope & Closures [Book] — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md)
- * 📜 [JavaScript Functions — Understanding The Basics — Brandon Morelli](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
- * 📜 [The battle between Function Scope and Block Scope — Marius Herring](http://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
- * 📜 [Emulating Block Scope in JavaScript — Josh Clanton](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
- * 📜 [The Difference Between Function and Block Scope in JavaScript — Joseph Cardillo](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
- * 📜 [Function Scopes and Block Scopes in JavaScript — Samer Buna](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
- * 📜 [Understanding Scope and Context in JavaScript | Ryan Morr](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
+ * 📜 [आप जेएस नहीं जानते: स्कोप और क्लोजर [पुस्तक] - केली सिम्पसन](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md)
+ * 📜 [जावास्क्रिप्ट कार्यों - मूल बातें समझना - ब्रैंडन मोरेली](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+ * 📜 [फंक्शन स्कोप और ब्लॉक स्कोप के बीच लड़ाई - मारियस हेरिंग](http://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)
+ * 📜 [जावास्क्रिप्ट में नकल ब्लॉक स्कोप - जोश क्लैंटन](http://adripofjavascript.com/blog/drips/emulating-block-scope-in-javascript.html)
+ * 📜 [जावास्क्रिप्ट में फंक्शन और ब्लॉक स्कोप के बीच का अंतर - जोसेफ कार्डिलो](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
+ * 📜 [जावास्क्रिप्ट में फ़ंक्शन स्कोप्स और ब्लॉक स्कोप्स - समर बुना](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
+ * 📜 [जावास्क्रिप्ट में स्कोप और संदर्भ को समझना | रयान मोर](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
  * 📜 [JavaScript Scope and Closures — Zell Liew](https://css-tricks.com/javascript-scope-closures/)
  * 📜 [Understanding Scope in JavaScript — Wissam Abirached](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
  * 📜 [Speaking JavaScript - Variables: Scopes, Environments, and Closures — Dr. Axel Rauschmayer](http://speakingjs.com/es5/ch16.html)
