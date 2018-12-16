@@ -88,25 +88,25 @@
 
 ### सामग्री
 
- * 📜 [जावास्क्रिप्ट कॉल स्टैक को समझना, इवेंट लूप्स - गौरव पांडविया](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
- * 📜 [जावास्क्रिप्ट कॉल स्टैक को समझना - चार्ल्स फ्रीबर्न](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
- * 📜 [जावास्क्रिप्ट: निष्पादन संदर्भ क्या है? कॉल स्टैक क्या है? - वैलेंटाइनो गैग्लर्डी](https://www.valentinog.com/blog/js-execution-context-call-stack/)
- * 📜 [जेएस इवेंट लूप और कॉल स्टैक क्या है? - जेस टेलफोर्ड](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
+ * 📜 [जावास्क्रिप्ट कॉल स्टैक को समझना, इवेंट लूप्स — गौरव पांडविया](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+ * 📜 [जावास्क्रिप्ट कॉल स्टैक को समझना — चार्ल्स फ्रीबर्न](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
+ * 📜 [जावास्क्रिप्ट: निष्पादन संदर्भ क्या है? कॉल स्टैक क्या है? — वैलेंटाइनो गैग्लर्डी](https://www.valentinog.com/blog/js-execution-context-call-stack/)
+ * 📜 [जेएस इवेंट लूप और कॉल स्टैक क्या है? — जेस टेलफोर्ड](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
  * 📜 [कॉल स्टैक - एमडीएन](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
- * 📜 [जावास्क्रिप्ट में निष्पादन संदर्भ और निष्पादन ढेर को समझना - सुखजींदर अरोड़ा](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
- * 📜 [जावास्क्रिप्ट कैसे काम करता है: इंजन का अवलोकन, रनटाइम, और कॉल स्टैक - अलेक्जेंडर ज़्लाटकोव](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
- * 📜 [जावास्क्रिप्ट में निष्पादन संदर्भ, उत्थान, स्कोप्स, और क्लोजर के लिए अंतिम गाइड - टायलर मैकगिनीस](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+ * 📜 [जावास्क्रिप्ट में निष्पादन संदर्भ और निष्पादन ढेर को समझना — सुखजींदर अरोड़ा](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+ * 📜 [जावास्क्रिप्ट कैसे काम करता है: इंजन का अवलोकन, रनटाइम, और कॉल स्टैक — अलेक्जेंडर ज़्लाटकोव](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+ * 📜 [जावास्क्रिप्ट में निष्पादन संदर्भ, उत्थान, स्कोप्स, और क्लोजर के लिए अंतिम गाइड — टायलर मैकगिनीस](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
 
 ### वीडियो
 
- * 🎥 [जावास्क्रिप्ट: कॉल स्टैक समझाया - कोडिंग ब्लॉक भारत](https://www.youtube.com/watch?v=w6QGEiQceOM)
- * 🎥 [जेएस कॉल स्टैक 9 मिनट में समझाया गया - कोल्ट स्टील](https://www.youtube.com/watch?v=W8AeMrVtFLY)
- * 🎥 [जावास्क्रिप्ट निष्पादन ढेर - कोडेकैडी](https://www.youtube.com/watch?v=jT0USJeNFEA)
- * 🎥 [कॉल स्टैक क्या है? - एरिक ट्रब](https://www.youtube.com/watch?v=w7QWQlkLY_s)
- * 🎥 [कॉल स्टैक - केविन ड्रम](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
- * 🎥 [जावास्क्रिप्ट निष्पादन को समझना - कोड्समिथ](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
- * 🎥 [कॉल स्टैक एंड इवेंट लूप - मूवीज़ कॉम](https://www.youtube.com/watch?v=mk0lu9MKBto)
- * 🎥 [जावास्क्रिप्ट में निष्पादन संदर्भ, उत्थान, स्कोप्स, और क्लोजर के लिए अंतिम गाइड - टायलर मैकगिनीस](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
+ * 🎥 [जावास्क्रिप्ट: कॉल स्टैक समझाया — कोडिंग ब्लॉक भारत](https://www.youtube.com/watch?v=w6QGEiQceOM)
+ * 🎥 [जेएस कॉल स्टैक 9 मिनट में समझाया गया — कोल्ट स्टील](https://www.youtube.com/watch?v=W8AeMrVtFLY)
+ * 🎥 [जावास्क्रिप्ट निष्पादन ढेर — कोडेकैडी](https://www.youtube.com/watch?v=jT0USJeNFEA)
+ * 🎥 [कॉल स्टैक क्या है? — एरिक ट्रब](https://www.youtube.com/watch?v=w7QWQlkLY_s)
+ * 🎥 [कॉल स्टैक — केविन ड्रम](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+ * 🎥 [जावास्क्रिप्ट निष्पादन को समझना — कोड्समिथ](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+ * 🎥 [कॉल स्टैक एंड इवेंट लूप — मूवीज़ कॉम](https://www.youtube.com/watch?v=mk0lu9MKBto)
+ * 🎥 [जावास्क्रिप्ट में निष्पादन संदर्भ, उत्थान, स्कोप्स, और क्लोजर के लिए अंतिम गाइड — टायलर मैकगिनीस](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
@@ -116,7 +116,7 @@
 
 ### सामग्री
 
- * 📜 [कैसे संख्या जावास्क्रिप्ट में एन्कोड किया गया है - डॉ एक्सेल रौशमेयर](http://2ality.com/2012/04/number-encoding.html)
+ * 📜 [कैसे संख्या जावास्क्रिप्ट में एन्कोड किया गया है — डॉ एक्सेल रौशमेयर](http://2ality.com/2012/04/number-encoding.html)
  * 📜 [What You Need to Know About JavaScript Number Type — Max Wizard K](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
  * 📜 [What Every JavaScript Developer Should Know About Floating Point Numbers — Chewxy](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
  * 📜 [The Secret Life of JavaScript Primitives — Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
@@ -133,7 +133,7 @@
  * 🎥 [Everything you never wanted to know about JavaScript numbers — Bartek Szopka](https://www.youtube.com/watch?v=MqHDDtVYJRI)
  * 🎥 [What are variables in Javascript? — JS For Everyone](https://www.youtube.com/watch?v=B4Bbmei_thw)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -156,7 +156,7 @@
  * 🎥 [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
  * 🎥 [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -178,7 +178,7 @@
  * 🎥 [Coercion in Javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=b04Q_vyqEG8)
  * 🎥 [JavaScript Questions: What is Coercion? - Steven Hancock](https://www.youtube.com/watch?v=z4-8wMSPJyI)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -202,7 +202,7 @@
  * 🎥 [JavaScript - The typeof operator — Java Brains](https://www.youtube.com/watch?v=ol_su88I3kw)
  * 🎥 [Javascript typeof operator — DevDelight](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -229,7 +229,7 @@
  * 🎥 [JavaScript Block Scope and Function Scope — mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
  * 🎥 [What the Heck is Lexical Scope? — NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -249,7 +249,7 @@
  * 🎥 [JavaScript - Expression vs. Statement — WebTunings](https://www.youtube.com/watch?v=3jDpNGJkupA)
  * 🎥 [Function Statements and Function Expressions — Codeacademy](https://www.youtube.com/watch?v=oB5rH_9bqAI)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -277,7 +277,7 @@
  * 🎥 [ES6 Modules in the Real World — Sam Thorogood](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
  * 🎥 [ES6 Modules — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -304,7 +304,7 @@
  * 🎥 [Desmitificando el Event Loop (Spanish)](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -327,7 +327,7 @@
  * 🎥 [JavaScript setTimeout, setInterval & clearInterval — DoingITeasyChannel](https://www.youtube.com/watch?v=BVALvvy5bZY)
  * 🎥 [JavaScript setTimeOut and setInterval Explained — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -347,7 +347,7 @@
 
  * 🎥 [JavaScript Engines: The Good Parts™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -365,7 +365,7 @@
 
  * 🎥 [JavaScript Bitwise Operators — Programming with Mosh](https://www.youtube.com/watch?v=mesu75PTDC8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -388,7 +388,7 @@
  * 🎥 [JavaScript DOM — The Net Ninja](https://www.youtube.com/watch?v=FIORjGvT0kk)
  * 🎥 [JavaScript DOM Crash Course — Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -412,7 +412,7 @@
  * 🎥 [Factory Functions in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=ImwrezYhw4w)
  * 🎥 [Javascript Tutorial Function Factories — Crypto Chan](https://www.youtube.com/watch?v=R7-IwpH80UE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -447,7 +447,7 @@
  * 🎥 [JavaScript Practical Applications of Call, Apply and Bind functions — techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
  * 🎥 [JS Function Methods call(), apply(), and bind() — Steve Griffith](https://www.youtube.com/watch?v=uBdH0iB1VDM)
  
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -465,7 +465,7 @@
  * 📜 [JavaScript instanceof vs typeof — Gary Rafferty](http://garyrafferty.com/2012/12/07/JavaScript-instanceof-vs-typeof.html)
  * 📜 [Function and Object, instances of each other — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -508,7 +508,7 @@
  * 🎥 [Prototypes in Javascript - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -534,7 +534,7 @@
  * 🎥 [Object.assign() explained — Aaron Writes Code](https://www.youtube.com/watch?v=aw7NfYhR5rc)
  * 🎥 [Object.assign() Method — techsith](https://www.youtube.com/watch?v=9Ky4X6inpi4)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -574,7 +574,7 @@
  * 🎥 [Learning Functional Programming with JavaScript — Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1521s)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -607,7 +607,7 @@
  * 🎥 [JavaScript Pure vs Impure Functions Explained — Theodore Anderson](https://www.youtube.com/watch?v=AHbRVJzpB54)
 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -640,7 +640,7 @@
  * 🎥 [Closures — freeCodeCamp](https://www.youtube.com/watch?v=1JsJx1x35c0)
  * 🎥 [JavaScript Closures — CodeWorkr](https://www.youtube.com/watch?v=-rLrGAXK8WE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -667,7 +667,7 @@
  * 🎥 [Higher Order Iterators in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=GYRMNp1SKXA)
  * 🎥 [Higher Order Functions in JavaScript — The Coding Train](https://www.youtube.com/watch?v=H4awPsyugS0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -694,7 +694,7 @@
  * 🎥 [What on Earth is Recursion? — Computerphile](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
  * 🎥 [Javascript Tutorial 34: Introduction To Recursion — codedamn](https://www.youtube.com/watch?v=9NO5dXSlbv8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -729,7 +729,7 @@
  * 🎥 [The Differences between ES6 Maps and Sets — Steve Griffith](https://www.youtube.com/watch?v=m4abICrldQI)
  * 🎥 [Javascript Generators - THEY CHANGE EVERYTHING - ES6 Generators Harmony Generators — LearnCode.academy](https://www.youtube.com/watch?v=QO07THdLWQo)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -761,7 +761,7 @@
  * 🎥 [Error Handling Promises in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=f8IgdnYIwOU)
  * 🎥 [Promises Part 1 - Topics of JavaScript/ES6 — The Coding Train](https://www.youtube.com/watch?v=QO4NXhWo_NM)
  
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -793,7 +793,7 @@
  * 🎥 [async/await Part 1 - Topics of JavaScript/ES8 — The Coding Train](https://www.youtube.com/watch?v=XO77Fib9tSI&index=3&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
  * 🎥 [async/await Part 2 - Topics of JavaScript/ES8 — The Coding Train](https://www.youtube.com/watch?v=chavThlNz3s&index=4&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -818,7 +818,7 @@
  * 🎥 [Data Structures and Algorithms in JavaScript — freeCodeCamp](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
  * 🎥 [Learning JavaScript Data Structures and Algorithms: Sorting — Packt Video](https://www.youtube.com/watch?v=Ymh_AurrMbA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -839,7 +839,7 @@
  * 🎥 [Essential Big O for JavaScript Developers — Dave Smith](https://www.youtube.com/watch?v=KatlvCFHPRo)
  * 🎥 [Big O Notation - Time Complexity Analysis — WebTunings](https://www.youtube.com/watch?v=ALl86xJiTD8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -856,7 +856,7 @@
  * 📜 [Data Structures and Algorithms library in JavaScript](https://github.com/yangshun/lago)
  * 📜 [Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -879,7 +879,7 @@
  * 🎥 [JavaScript ES6 Classes and Inheritance — Traversy Media](https://www.youtube.com/watch?v=RBLIm5LMrmc)
  * 🎥 [Polymorphism in JavaScript — kudvenkat](https://www.youtube.com/watch?v=zdovG9cuEBA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -901,7 +901,7 @@
  * 🎥 [JavaScript Design Patterns — Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
  * 🎥 [JavaScript Patterns for 2017 — Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
 
- **[⬆ Back to Top](#table-of-contents)**
+ **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
@@ -937,7 +937,7 @@
 
   ### Videos
 
- * 🎥 [Compose vs Pipe: Functional Programming in JavaScript — Chyld Studios](https://www.youtube.com/watch?v=Wl2ejJOqHUU)
+ * 🎥 [लिखें बनाम पाइप: जावास्क्रिप्ट में कार्यात्मक प्रोग्रामिंग — शैल्ड स्टूडियो](https://www.youtube.com/watch?v=Wl2ejJOqHUU)
  * 🎥 [JavaScript Functional Programing: Compose — Theodore Anderson](https://www.youtube.com/watch?v=jigHxo9YR30)
  * 🎥 [Function Composition - Functional JavaScript — NWCalvank](https://www.youtube.com/watch?v=mth5WpEc4Qs)
  * 🎥 [JavaScript Function Composition Explained — Theodore Anderson](https://www.youtube.com/watch?v=Uam37AlzPYw)
@@ -945,22 +945,22 @@
  * 🎥 [Partial Application vs. Currying — NWCalvank](https://www.youtube.com/watch?v=DzLkRsUN2vE)
  * 🎥 [JavaScript Partial Application — Theodore Anderson](https://www.youtube.com/watch?v=jkebgHEcvac)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
-## 33. Clean Code
+## 33. स्वच्छ कोड
 
-### Articles
+### सामग्री
 
- * 📜 [Clean Code concepts adapted for JavaScript — Ryan McDermott](https://github.com/ryanmcdermott/clean-code-javascript)
- * 📜 [JavaScript Clean Coding Best Practices — András Tóth](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
- * 📜 [Function parameters in JavaScript Clean Code — Kevin Peters](https://medium.com/@kevin_peters/function-parameters-in-javascript-clean-code-4caac109159b)
- * 📜 [Clean Code JavaScript — Sarah Drasner](https://css-tricks.com/clean-code-javascript/)
- * 📜 [Keeping your code clean — Samuel James](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10)
- * 📜 [Best Practices for Using Modern JavaScript Syntax — M. David Green](https://www.sitepoint.com/modern-javascript-best-practices/)
+ * 📜 [जावास्क्रिप्ट के लिए अनुकूलित स्वच्छ कोड अवधारणाओं - रयान मैकडर्मॉट](https://github.com/ryanmcdermott/clean-code-javascript)
+ * 📜 [जावास्क्रिप्ट स्वच्छ कोडिंग सर्वोत्तम अभ्यास - एंड्रस टोथ](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
+ * 📜 [जावास्क्रिप्ट स्वच्छ कोड - केविन पीटर्स में फंक्शन पैरामीटर](https://medium.com/@kevin_peters/function-parameters-in-javascript-clean-code-4caac109159b)
+ * 📜 [स्वच्छ कोड जावास्क्रिप्ट - सारा ड्रैसरर](https://css-tricks.com/clean-code-javascript/)
+ * 📜 [अपने कोड को साफ रखना - सैमुअल जेम्स](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10)
+ * 📜 [आधुनिक जावास्क्रिप्ट सिंटेक्स का उपयोग करने के लिए सर्वोत्तम अभ्यास - एम डेविड ग्रीन](https://www.sitepoint.com/modern-javascript-best-practices/)
 
-### Videos
-*  🎥 [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
+### वीडियो
+*  🎥 [जावास्क्रिप्ट प्रो टिप्स - कोड यह, नहीं](https://www.youtube.com/watch?v=Mus_vwhTCq0)
 
- **[⬆ Back to Top](#table-of-contents)**
+ **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
