@@ -217,17 +217,17 @@
  * 📜 [जावास्क्रिप्ट में फंक्शन और ब्लॉक स्कोप के बीच का अंतर - जोसेफ कार्डिलो](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe)
  * 📜 [जावास्क्रिप्ट में फ़ंक्शन स्कोप्स और ब्लॉक स्कोप्स - समर बुना](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
  * 📜 [जावास्क्रिप्ट में स्कोप और संदर्भ को समझना | रयान मोर](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
- * 📜 [JavaScript Scope and Closures — Zell Liew](https://css-tricks.com/javascript-scope-closures/)
- * 📜 [Understanding Scope in JavaScript — Wissam Abirached](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
- * 📜 [Speaking JavaScript - Variables: Scopes, Environments, and Closures — Dr. Axel Rauschmayer](http://speakingjs.com/es5/ch16.html)
- * 📜 [Understanding Scope in JavaScript ― Hammad Ahmed](https://scotch.io/tutorials/understanding-scope-in-javascript)
+ * 📜 [जावास्क्रिप्ट स्कोप और क्लोजर - ज़ेल लियू](https://css-tricks.com/javascript-scope-closures/)
+ * 📜 [जावास्क्रिप्ट में स्कोप को समझना - विस्मत अबीरचेड](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
+ * 📜 [जावास्क्रिप्ट बोलना - चर: स्कोप्स, वातावरण, और बंद - डॉ एक्सेल रौशमेयर](http://speakingjs.com/es5/ch16.html)
+ * 📜 [जावास्क्रिप्ट में स्कोप को समझना - हम्माद अहमद](https://scotch.io/tutorials/understanding-scope-in-javascript)
 
-### Videos
+### वीडियो
 
- * 🎥 [What Makes Javascript Weird ... and Awesome pt. 4 — LearnCode.academy](https://www.youtube.com/watch?v=SBwoFkRjZvE)
- * 🎥 [Variable Scope in JavaScript — Kirupa Chinnathambi](https://www.youtube.com/watch?v=dhp57T3p760)
- * 🎥 [JavaScript Block Scope and Function Scope — mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
- * 🎥 [What the Heck is Lexical Scope? — NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
+ * 🎥 [क्या जावास्क्रिप्ट अजीब बनाता है ... और बहुत बढ़िया pt. 4 - LearnCode.academy](https://www.youtube.com/watch?v=SBwoFkRjZvE)
+ * 🎥 [जावास्क्रिप्ट में परिवर्तनीय दायरा - किरुपा चिन्नाथंबी](https://www.youtube.com/watch?v=dhp57T3p760)
+ * 🎥 [जावास्क्रिप्ट ब्लॉक स्कोप और फ़ंक्शन स्कोप - mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
+ * 🎥 [हेक्स लेक्सिकल स्कोप क्या है? - एनडब्ल्यू कैलवान](https://www.youtube.com/watch?v=GhNA0r10MmA)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
