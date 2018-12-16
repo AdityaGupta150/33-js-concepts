@@ -233,62 +233,62 @@
 
 ---
 
-## 7. Expression vs Statement
+## 7. अभिव्यक्ति बनाम वक्तव्य
 
-### Articles
+### सामग्री
 
- * 📜 [All you need to know about Javascript's Expressions, Statements and Expression Statements — Promise Tochi](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
- * 📜 [Function Expressions vs Function Declarations — Paul Wilkins](https://www.sitepoint.com/function-expressions-vs-declarations/)
- * 📜 [JavaScript Function — Declaration vs Expression — Ravi Roshan](https://medium.com/@raviroshan.talk/javascript-function-declaration-vs-expression-f5873b8c7b38)
- * 📜 [Function Declarations vs. Function Expressions — Mandeep Singh](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
- * 📜 [Function Declarations vs. Function Expressions — Anguls Croll](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
+ * 📜 [आपको जावास्क्रिप्ट के अभिव्यक्तियों, वक्तव्यों और अभिव्यक्ति वक्तव्यों के बारे में जानने की आवश्यकता है - वादा टोची](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
+ * 📜 [समारोह अभिव्यक्ति बनाम समारोह घोषणा - पॉल विल्किन्स](https://www.sitepoint.com/function-expressions-vs-declarations/)
+ * 📜 [जावास्क्रिप्ट फ़ंक्शन - घोषणा बनाम अभिव्यक्ति - रवि रोशन](https://medium.com/@raviroshan.talk/javascript-function-declaration-vs-expression-f5873b8c7b38)
+ * 📜 [फंक्शन घोषणा बनाम फंक्शन एक्सप्रेशन - मनदीप सिंह](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
+ * 📜 [फंक्शन घोषणा बनाम फंक्शन एक्सप्रेशन - एंगल्स क्रॉल](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
 
-### Videos
+### वीडियो
 
- * 🎥 [Expressions vs. Statements in JavaScript — Hexlet](https://www.youtube.com/watch?v=WVyCrI1cHi8)
- * 🎥 [JavaScript - Expression vs. Statement — WebTunings](https://www.youtube.com/watch?v=3jDpNGJkupA)
- * 🎥 [Function Statements and Function Expressions — Codeacademy](https://www.youtube.com/watch?v=oB5rH_9bqAI)
-
-**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
-
----
-
-## 8. IIFE, Modules and Namespaces
-
-### Articles
-
- * 📜 [Mastering Immediately-Invoked Function Expressions ― Chandra Gundamaraju](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
- * 📜 [Do ES6 Modules make the case of IIFEs obsolete?](https://hashnode.com/post/do-es6-modules-make-the-case-of-iifes-obsolete-civ96wet80scqgc538un20es0)
- * 📜 [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers ― Jurgen Van de Moere](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
- * 📜 [Modules ― Exploring JS](http://exploringjs.com/es6/ch_modules.html)
- * 📜 [ES modules: A cartoon deep-dive — Lin Clark](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
- * 📜 [Understanding ES6 Modules — Craig Buckler](https://www.sitepoint.com/understanding-es6-modules/)
- * 📜 [An overview of ES6 Modules in JavaScript — Brent Graham](https://blog.cloud66.com/an-overview-of-es6-modules-in-javascript/)
- * 📜 [ES6 Modules in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-modules-in-depth)
- * 📜 [ES6 modules, Node.js and the Michael Jackson Solution — Alberto Gimeno](https://medium.com/dailyjs/es6-modules-node-js-and-the-michael-jackson-solution-828dc244b8b)
- * 📜 [JavaScript Modules: A Beginner’s Guide — Preethi Kasireddy](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
-
-### Videos
-
- * 🎥 [Immediately Invoked Function Expression - Beau teaches JavaScript — freeCodeCamp](https://www.youtube.com/watch?v=3cbiZV4H22c)
- * 🎥 [Understanding JavaScript IIFE](https://www.youtube.com/watch?v=I5EntfMeIIQ)
- * 🎥 [JavaScript Modules: ES6 Import and Export — Kyle Robinson](https://www.youtube.com/watch?v=_3oSWwapPKQ)
- * 🎥 [ES6 - Modules — Ryan Christiani](https://www.youtube.com/watch?v=aQr2bV1BPyE)
- * 🎥 [ES6 Modules in the Real World — Sam Thorogood](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
- * 🎥 [ES6 Modules — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
+ * 🎥 [जावास्क्रिप्ट में अभिव्यक्ति बनाम विवरण - हेक्सलेट](https://www.youtube.com/watch?v=WVyCrI1cHi8)
+ * 🎥 [जावास्क्रिप्ट - अभिव्यक्ति बनाम वक्तव्य - वेब ट्यूनिंग्स](https://www.youtube.com/watch?v=3jDpNGJkupA)
+ * 🎥 [फंक्शन स्टेटमेंट्स एंड फंक्शन एक्सप्रेशन - कोडेकैडमी](https://www.youtube.com/watch?v=oB5rH_9bqAI)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
-## 9. Message Queue and Event Loop
+## 8. आईआईएफई, मॉड्यूल और नेमस्पेस
 
-### Articles
+### सामग्री
 
- * 📜 [JavaScript Event Loop Explained — Anoop Raveendran](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4)
- * 📜 [The JavaScript Event Loop: Explained — Erin Sweson-Healey](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
- * 📜 [What is the Event Loop in Javascript — WP Tutor.io](https://www.wptutor.io/web/js/javascript-event-loop)
- * 📜 [Understanding JS: The Event Loop — Alexander Kondov](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
+ * 📜 [मास्टरिंग तत्काल-आमंत्रित समारोह अभिव्यक्ति - चंद्र गुंडमारजू](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
+ * 📜 [क्या ईएस 6 मॉड्यूल आईआईएफई अप्रचलित होने का मामला बनाते हैं?](https://hashnode.com/post/do-es6-modules-make-the-case-of-iifes-obsolete-civ96wet80scqgc538un20es0)
+ * 📜 [जावास्क्रिप्ट मॉड्यूल, मॉड्यूल प्रारूप, मॉड्यूल लोडर और मॉड्यूल बंडलर के लिए एक 10 मिनट प्राइमर - जुर्गन वान डी मोरे](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+ * 📜 [मॉड्यूल - जेएस की खोज](http://exploringjs.com/es6/ch_modules.html)
+ * 📜 [ईएस मॉड्यूल: एक कार्टून गहरे गोताखोर - लिन क्लार्क](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+ * 📜 [ES6 मॉड्यूल को समझना - क्रेग बकलर](https://www.sitepoint.com/understanding-es6-modules/)
+ * 📜 [जावास्क्रिप्ट में ईएस 6 मॉड्यूल का एक सिंहावलोकन - ब्रेंट ग्राहम](https://blog.cloud66.com/an-overview-of-es6-modules-in-javascript/)
+ * 📜 [गहराई में ES6 मॉड्यूल - निकोलस बेवाक्वा](https://ponyfoo.com/articles/es6-modules-in-depth)
+ * 📜 [ईएस 6 मॉड्यूल, नोड.जेएस और माइकल जैक्सन समाधान - अल्बर्टो गिमेनो](https://medium.com/dailyjs/es6-modules-node-js-and-the-michael-jackson-solution-828dc244b8b)
+ * 📜 [जावास्क्रिप्ट मॉड्यूल: एक शुरुआती गाइड - प्रीती कासेरेड्डी](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
+
+### वीडियो
+
+ * 🎥 [तुरंत आमंत्रित फोकस अभिव्यक्ति - Beau जावास्क्रिप्ट सिखाता है - freeCodeCamp](https://www.youtube.com/watch?v=3cbiZV4H22c)
+ * 🎥 [जावास्क्रिप्ट आईआईएफई को समझना](https://www.youtube.com/watch?v=I5EntfMeIIQ)
+ * 🎥 [जावास्क्रिप्ट मॉड्यूल: ईएस 6 आयात और निर्यात - केली रॉबिन्सन](https://www.youtube.com/watch?v=_3oSWwapPKQ)
+ * 🎥 [ईएस 6 - मॉड्यूल - रयान क्रिस्टियन](https://www.youtube.com/watch?v=aQr2bV1BPyE)
+ * 🎥 [रियल वर्ल्ड में ईएस 6 मॉड्यूल - सैम थोरोगूड](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
+ * 🎥 [ईएस 6 मॉड्यूल - टेम्पलकोडिंग](https://www.youtube.com/watch?v=5P04OK6KlXA)
+
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
+
+---
+
+## 9. संदेश कतार और घटना लूप
+
+### सामग्री
+
+ * 📜 [जावास्क्रिप्ट इवेंट लूप समझाया - Anoop Raveendran](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4)
+ * 📜 [जावास्क्रिप्ट इवेंट लूप: समझाया गया - एरिन स्वसन-हेली](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
+ * 📜 [जावास्क्रिप्ट में इवेंट लूप क्या है - WP Tutor.io](https://www.wptutor.io/web/js/javascript-event-loop)
+ * 📜 [जेएस को समझना: इवेंट लूप - अलेक्जेंडर कोंडोव](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
  * 📜 [Understanding the JavaScript Event Loop — Ashish Gupta](https://www.zeolearn.com/magazine/understanding-the-javascript-event-loop)
  * 📜 [Event Loop in Javascript — Manjula Dube](https://code.likeagirl.io/what-the-heck-is-event-loop-1e414fccef49)
  * 📜 [The JavaScript Event Loop — Flavio Copes](https://flaviocopes.com/javascript-event-loop/)
