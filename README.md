@@ -21,7 +21,7 @@
 
 ## परिचय
 
-यह संग्रह जावास्क्रिप्ट में अपनी अवधारणाओं को मास्टर करने में मदद करने के इरादे से बनाया गया था। यह एक आवश्यकता नहीं है, लेकिन भविष्य के अध्ययन के लिए एक गाइड है। यह एक लेख पर आधारित है [Stephen Curtis](https://twitter.com/stephenthecurt) और आप इसे पढ़ सकते हैं [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+यह संग्रह जावास्क्रिप्ट में अपनी अवधारणाओं को मास्टर करने में मदद करने के इरादे से बनाया गया था। यह एक आवश्यकता नहीं है, लेकिन भविष्य के अध्ययन के लिए एक गाइड है। यह एक लेख पर आधारित है [स्टीफन कर्टिस](https://twitter.com/stephenthecurt) और आप इसे पढ़ सकते हैं [यहाँ](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
 **🚀 गिटहब द्वारा एक के रूप में माना जाता है [2018 की शीर्ष ओपन सोर्स परियोजनाएं!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
@@ -117,31 +117,31 @@
 ### सामग्री
 
  * 📜 [कैसे संख्या जावास्क्रिप्ट में एन्कोड किया गया है — डॉ एक्सेल रौशमेयर](http://2ality.com/2012/04/number-encoding.html)
- * 📜 [What You Need to Know About JavaScript Number Type — Max Wizard K](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
- * 📜 [What Every JavaScript Developer Should Know About Floating Point Numbers — Chewxy](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
- * 📜 [The Secret Life of JavaScript Primitives — Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
- * 📜 [Primitive Types — Flow](https://flow.org/en/docs/types/primitives/)
- * 📜 [(Not) Everything in JavaScript is an Object - Daniel Li](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
- * 📜 [JavaScript data types and data structures - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
+ * 📜 [जावास्क्रिप्ट नंबर प्रकार के बारे में आपको क्या पता होना चाहिए - मैक्स विज़ार्ड के](https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6)
+ * 📜 [प्रत्येक जावास्क्रिप्ट डेवलपर को फ़्लोटिंग पॉइंट नंबरों के बारे में क्या पता होना चाहिए - चवक्सय](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
+ * 📜 [जावास्क्रिप्ट प्राइमेटिव्स का गुप्त जीवन - एंगस क्रॉल](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
+ * 📜 [आदिम प्रकार - प्रवाह](https://flow.org/en/docs/types/primitives/)
+ * 📜 [(नहीं) जावास्क्रिप्ट में सब कुछ एक वस्तु है - डैनियल ली](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
+ * 📜 [जावास्क्रिप्ट डेटा प्रकार और डेटा संरचनाएं - एमडीएन](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
 
 ### Videos
 
- * 🎥 [JavaScript Reference vs Primitive Types — Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
- * 🎥 [JavaScript Primitive Types — Simon Sez IT](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
- * 🎥 [Value Types and Reference Types in JavaScript — Programming with Mosh](https://www.youtube.com/watch?v=e-_mDyqm2oU)
- * 🎥 [JavaScript Primitive Data Types — Avelx](https://www.youtube.com/watch?v=qw3j0A3DIzQ)
- * 🎥 [Everything you never wanted to know about JavaScript numbers — Bartek Szopka](https://www.youtube.com/watch?v=MqHDDtVYJRI)
- * 🎥 [What are variables in Javascript? — JS For Everyone](https://www.youtube.com/watch?v=B4Bbmei_thw)
+ * 🎥 [जावास्क्रिप्ट संदर्भ बनाम आदिम प्रकार - अकादमिक](https://www.youtube.com/watch?v=9ooYYRLdg_g)
+ * 🎥 [जावास्क्रिप्ट आदिम प्रकार - साइमन सेज़ आईटी](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
+ * 🎥 [जावास्क्रिप्ट में मूल्य प्रकार और संदर्भ प्रकार - मोश के साथ प्रोग्रामिंग](https://www.youtube.com/watch?v=e-_mDyqm2oU)
+ * 🎥 [जावास्क्रिप्ट आदिम डेटा प्रकार - एवलक्स](https://www.youtube.com/watch?v=qw3j0A3DIzQ)
+ * 🎥 [सबकुछ जो आप जावास्क्रिप्ट नंबरों के बारे में कभी नहीं जानना चाहते थे - बार्टक स्ज़ोपका](https://www.youtube.com/watch?v=MqHDDtVYJRI)
+ * 🎥 [जावास्क्रिप्ट में चर क्या हैं? - सभी के लिए जेएस](https://www.youtube.com/watch?v=B4Bbmei_thw)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
-## 3. Value Types and Reference Types
+## 3. मूल्य प्रकार और संदर्भ प्रकार
 
-### Articles
+### सामग्री
 
- * 📜 [Explaining Value vs. Reference in Javascript — Arnav Aggarwal](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+ * 📜 [जावास्क्रिप्ट में मूल्य बनाम संदर्भ समझाएं - अर्नाव अग्रवाल](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
  * 📜 [Understand Value and Reference Types in JavaScript — Zsolt Nagy](https://www.zsoltnagy.eu/understand-value-and-reference-types-in-javascript/)
  * 📜 [Primitive Types & Reference Types in JavaScript — Bran van der Meer](https://gist.github.com/branneman/7fb06d8a74d7e6d4cbcf75c50fec599c)
  * 📜 [Value Types, Reference Types and Scope in JavaScript — Ben Aston](https://medium.com/@benastontweet/lesson-1b-javascript-fundamentals-380f601ba851)
