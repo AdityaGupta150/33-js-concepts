@@ -164,19 +164,19 @@
 
 ### सामग्री
 
- * 📜 [What you need to know about Javascript's Implicit Coercion — Promise Tochi](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
- * 📜 [JavaScript Type Coercion Explained — Alexey Samoshkin](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
- * 📜 [Javascript Coercion Explained — Ben Garrison](https://hackernoon.com/javascript-coercion-explained-545c895213d3)
- * 📜 [What exactly is Type Coercion in Javascript? - Stack Overflow](https://stackoverflow.com/questions/19915688/what-exactly-is-type-coercion-in-javascript)
- * 📜 [You Don't Know JS: Types & Grammar [Book] — Kyle Simpson](https://www.oreilly.com/library/view/you-dont-know/9781491905159/ch04.html)
- * 📜 [(Not) Everything in JavaScript is an Object - Daniel Li](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
- * 📜 [Type Coercion in JavaScript, and why everyone gets it wrong.](https://thedevs.network/blog/type-coercion-in-javascript-and-why-everyone-gets-it-wrong)
+ * 📜 [आपको जावास्क्रिप्ट के लागू जबरन के बारे में क्या जानने की आवश्यकता है - वादा टोची](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
+ * 📜 [जावास्क्रिप्ट प्रकार जबरन समझाया - एलेक्सी सामोशकिन](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
+ * 📜 [जावास्क्रिप्ट जबरन समझाया गया - बेन गैरीसन जावास्क्रिप्ट जबरन समझाया - बेन गैरीसन](https://hackernoon.com/javascript-coercion-explained-545c895213d3)
+ * 📜 [जावास्क्रिप्ट में टाइप जबरदस्ती क्या है? - स्टैक ओवरफ़्लो](https://stackoverflow.com/questions/19915688/what-exactly-is-type-coercion-in-javascript)
+ * 📜 [आप जेएस नहीं जानते: प्रकार और व्याकरण [पुस्तक] - केली सिम्पसन](https://www.oreilly.com/library/view/you-dont-know/9781491905159/ch04.html)
+ * 📜 [(नहीं) जावास्क्रिप्ट में सब कुछ एक वस्तु है - डैनियल ली](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
+ * 📜 [जावास्क्रिप्ट में जबरदस्ती टाइप करें, और क्यों हर कोई इसे गलत मानता है।](https://thedevs.network/blog/type-coercion-in-javascript-and-why-everyone-gets-it-wrong)
 
- ### Videos
+ ### वीडियो
 
- * 🎥 [== ? === ??? ...#@^% - Shirmung Bielefeld](https://www.youtube.com/watch?v=qGyqzN0bjhc&t)
- * 🎥 [Coercion in Javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=b04Q_vyqEG8)
- * 🎥 [JavaScript Questions: What is Coercion? - Steven Hancock](https://www.youtube.com/watch?v=z4-8wMSPJyI)
+ * 🎥 [== ? === ??? ...#@^% - शर्मंग बीलेफेल्ड](https://www.youtube.com/watch?v=qGyqzN0bjhc&t)
+ * 🎥 [जावास्क्रिप्ट में अंतर्निहित रूपांतरण - हितेश चौधरी](https://www.youtube.com/watch?v=b04Q_vyqEG8)
+ * 🎥 [जावास्क्रिप्ट प्रश्न: निहित रूपांतरण क्या है? स्टीवन हैंकॉक](https://www.youtube.com/watch?v=z4-8wMSPJyI)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
@@ -186,10 +186,10 @@
 
 ### Articles
 
- * 📜 [JavaScript Double Equals vs. Triple Equals — Brandon Morelli](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
- * 📜 [What is the difference between =, ==, and === in JS? — Codecademy](https://www.codecademy.com/en/forum_questions/558ea4f5e39efed371000508)
- * 📜 [Should I use === or == equality comparison operator in JavaScript? — Panu Pitkamaki](https://bytearcher.com/articles/equality-comparison-operator-javascript/)
- * 📜 [== vs === JavaScript: Double Equals and Coercion — AJ Meyghani](https://www.codementor.io/javascript/tutorial/double-equals-and-coercion-in-javascript)
+ * 📜 [जावास्क्रिप्ट डबल बराबर बनाम ट्रिपल बराबर - ब्रैंडन मोरेली](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
+ * 📜 [जेएस में =, ==, और === के बीच क्या अंतर है? - कोडेकैडी](https://www.codecademy.com/en/forum_questions/558ea4f5e39efed371000508)
+ * 📜 [क्या मुझे जावास्क्रिप्ट में === या == समानता तुलना ऑपरेटर का उपयोग करना चाहिए? - पनु पिटककाकी](https://bytearcher.com/articles/equality-comparison-operator-javascript/)
+ * 📜 [== बनाम === जावास्क्रिप्ट: डबल बराबर और जबरन - एजे मेघानी](https://www.codementor.io/javascript/tutorial/double-equals-and-coercion-in-javascript)
  * 📜 [Why Use the Triple-Equals Operator in JavaScript? — Louis Lazaris](https://www.impressivewebs.com/why-use-triple-equals-javascipt/)
  * 📜 [What is the difference between == and === in JavaScript? — Craig Buckler](https://www.oreilly.com/learning/what-is-the-difference-between-and-in-javascript)
  * 📜 [Why javascript's typeof always return "object"? — Stack Overflow](https://stackoverflow.com/questions/3787901/why-javascripts-typeof-always-return-object)
