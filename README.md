@@ -289,51 +289,51 @@
  * 📜 [जावास्क्रिप्ट इवेंट लूप: समझाया गया - एरिन स्वसन-हेली](https://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
  * 📜 [जावास्क्रिप्ट में इवेंट लूप क्या है - WP Tutor.io](https://www.wptutor.io/web/js/javascript-event-loop)
  * 📜 [जेएस को समझना: इवेंट लूप - अलेक्जेंडर कोंडोव](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
- * 📜 [Understanding the JavaScript Event Loop — Ashish Gupta](https://www.zeolearn.com/magazine/understanding-the-javascript-event-loop)
- * 📜 [Event Loop in Javascript — Manjula Dube](https://code.likeagirl.io/what-the-heck-is-event-loop-1e414fccef49)
- * 📜 [The JavaScript Event Loop — Flavio Copes](https://flaviocopes.com/javascript-event-loop/)
- * 📜 [How JavaScript works: Event loop — Alexander Zlatkov](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
- * 📜 [Visualising the JavaScript Event Loop with a Pizza Restaurant analogy — Priyansh Jain](https://dev.to/presto412/visualising-the-javascript-event-loop-with-a-pizza-restaurant-analogy-47a8)
+ * 📜 [जावास्क्रिप्ट इवेंट लूप को समझना - आशीष गुप्ता](https://www.zeolearn.com/magazine/understanding-the-javascript-event-loop)
+ * 📜 [जावास्क्रिप्ट में इवेंट लूप - मंजुला ड्यूब](https://code.likeagirl.io/what-the-heck-is-event-loop-1e414fccef49)
+ * 📜 [जावास्क्रिप्ट इवेंट लूप - फ्लैवियो कॉप्स](https://flaviocopes.com/javascript-event-loop/)
+ * 📜 [जावास्क्रिप्ट कैसे काम करता है: इवेंट लूप - अलेक्जेंडर ज़्लाटकोव](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+ * 📜 [एक पिज्जा रेस्तरां समानता के साथ जावास्क्रिप्ट इवेंट लूप को विज़ुअलाइज करना - प्रियंश जैन](https://dev.to/presto412/visualising-the-javascript-event-loop-with-a-pizza-restaurant-analogy-47a8)
 
-### Videos
+### वीडियो
 
- * 🎥 [What the heck is the event loop anyway? | JSConf EU — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
- * 🎥 [JavaScript Event Loop — ComScience Simplified](https://www.youtube.com/watch?v=XzXIMZMN9k4)
- * 🎥 [I'm stuck in an Event Loop — Philip Roberts](https://www.youtube.com/watch?v=6MXRNXXgP_0)
- * 🎥 [In The Loop - Jake Archibald | JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
- * 🎥 [Desmitificando el Event Loop (Spanish)](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
+ * 🎥 [वैसे भी घटना लूप क्या बिल्ली है? | जेएससीओएनएफ ईयू - फिलिप रॉबर्ट्स](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+ * 🎥 [जावास्क्रिप्ट इवेंट लूप - कॉमसाइंस सरलीकृत](https://www.youtube.com/watch?v=XzXIMZMN9k4)
+ * 🎥 [मैं एक घटना लूप में फंस गया हूँ - फिलिप रॉबर्ट्स](https://www.youtube.com/watch?v=6MXRNXXgP_0)
+ * 🎥 [लूप में - जेक आर्किबाल्ड | जेएससीओएनएफ.एशिया 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+ * 🎥 [Desmitificando एल इवेंट लूप (स्पेनिश)](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
 
-
-**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
-
----
-
-## 10. setTimeout, setInterval and requestAnimationFrame
-
-### Articles
-
- * 📜 [setTimeout and setInterval — JavaScript.Info](https://javascript.info/settimeout-setinterval)
- * 📜 [Why not to use setInterval — Akanksha Sharma](https://dev.to/akanksha_9560/why-not-to-use-setinterval--2na9)
- * 📜 [setTimeout VS setInterval — Develoger](https://develoger.com/settimeout-vs-setinterval-cff85142555b)
- * 📜 [Using requestAnimationFrame — Chris Coyier](https://css-tricks.com/using-requestanimationframe/)
- * 📜 [Understanding JavaScript's requestAnimationFrame() — JavaScript Kit](http://www.javascriptkit.com/javatutors/requestanimationframe.shtml)
- * 📜 [Handling time intervals in JavaScript - Amit Merchant](https://www.amitmerchant.com/Handling-Time-Intervals-In-Javascript/)
-
-### Videos
-
- * 🎥 [Javascript: How setTimeout and setInterval works — Coding Blocks India](https://www.youtube.com/watch?v=6bPKyl8WYWI)
- * 🎥 [setTimeout and setInterval in JavaScript — techsith](https://www.youtube.com/watch?v=TbCgGWe8LN8)
- * 🎥 [JavaScript Timers — Steve Griffith](https://www.youtube.com/watch?v=0VVJSvlUgtg)
- * 🎥 [JavaScript setTimeout, setInterval & clearInterval — DoingITeasyChannel](https://www.youtube.com/watch?v=BVALvvy5bZY)
- * 🎥 [JavaScript setTimeOut and setInterval Explained — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
-## 11. JavaScript Engines
+## 10. setTimeout, setInterval और requestAnimationFrame
 
-### Articles
+### सामग्री
+
+ * 📜 [सेटटाइमआउट और सेट इंटरवल - जावास्क्रिप्ट.इन्फो](https://javascript.info/settimeout-setinterval)
+ * 📜 [सेट इंटरवल का उपयोग क्यों न करें - अखंड शर्मा](https://dev.to/akanksha_9560/why-not-to-use-setinterval--2na9)
+ * 📜 [सेटटाइमआउट VS सेट इंटरवल - डेवेलोगर](https://develoger.com/settimeout-vs-setinterval-cff85142555b)
+ * 📜 [अनुरोध का उपयोग एनीमेशन फ्रेम - क्रिस कोयियर](https://css-tricks.com/using-requestanimationframe/)
+ * 📜 [जावास्क्रिप्ट के अनुरोध को समझनाएनीमेशन फ्रेम () - जावास्क्रिप्ट किट](http://www.javascriptkit.com/javatutors/requestanimationframe.shtml)
+ * 📜 [जावास्क्रिप्ट में समय अंतराल को संभालना - अमित व्यापारी](https://www.amitmerchant.com/Handling-Time-Intervals-In-Javascript/)
+
+### वीडियो
+
+ * 🎥 [जावास्क्रिप्ट: कैसे सेटटाइमआउट और सेट इंटरवल काम करता है - कोडिंग ब्लॉक भारत](https://www.youtube.com/watch?v=6bPKyl8WYWI)
+ * 🎥 [जावास्क्रिप्ट में setTimeout और setInterval - techsith](https://www.youtube.com/watch?v=TbCgGWe8LN8)
+ * 🎥 [जावास्क्रिप्ट टाइमर - स्टीव ग्रिफिथ](https://www.youtube.com/watch?v=0VVJSvlUgtg)
+ * 🎥 [जावास्क्रिप्ट सेटटाइमआउट, सेट इंटरवल और स्पष्ट अंतराल - DoingITeasyChannel](https://www.youtube.com/watch?v=BVALvvy5bZY)
+ * 🎥 [जावास्क्रिप्ट सेटटाइमऑट और सेट इंटरवल समझाया - थियोडोर एंडरसन](https://www.youtube.com/watch?v=mVKfrWCOB60)
+
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
+
+---
+
+## 11. जावास्क्रिप्ट इंजन
+
+### सामग्री
 
  * 📜 [JavaScript Engines — Jen Looper](http://www.softwaremag.com/javascript-engines/)
  * 📜 [Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code — DroidHead](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
