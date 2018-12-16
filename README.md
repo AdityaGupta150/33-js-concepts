@@ -373,60 +373,60 @@
 
 ### सामग्री
 
- * 📜 [How To Understand and Modify the DOM in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
- * 📜 [What’s the Document Object Model, and why you should know how to use it — Leonardo Maldonado](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
- * 📜 [JavaScript DOM Tutorial with Example — Guru99](https://www.guru99.com/how-to-use-dom-and-events-in-javascript.html)
- * 📜 [What is the DOM? — Chris Coyier](https://css-tricks.com/dom/)
- * 📜 [Traversing the DOM with JavaScript — Zell Liew](https://zellwk.com/blog/dom-traversals/)
- * 📜 [Eloquent JavaScript [Book] — The Document Object Model](https://eloquentjavascript.net/14_dom.html)
- * 📜 [DOM Tree](https://javascript.info/dom-nodes)
- * 📜 [How to traverse the DOM in Javascript — Vojislav Grujić](https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e)
- * 📜 [Render Tree Construction — Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
+ * 📜 [जावास्क्रिप्ट में डोम को कैसे समझें और संशोधित करें - तानिया रसिया](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
+ * 📜 [दस्तावेज़ ऑब्जेक्ट मॉडल क्या है, और आपको इसका उपयोग क्यों करना चाहिए - लियोनार्डो मालडोनाडो](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
+ * 📜 [उदाहरण के साथ जावास्क्रिप्ट डोम ट्यूटोरियल - गुरु 99](https://www.guru99.com/how-to-use-dom-and-events-in-javascript.html)
+ * 📜 [डोम क्या है? - क्रिस कोयियर](https://css-tricks.com/dom/)
+ * 📜 [जावास्क्रिप्ट के साथ डोम ट्रैवर्सिंग - ज़ेल लिव](https://zellwk.com/blog/dom-traversals/)
+ * 📜 [वांछित जावास्क्रिप्ट [पुस्तक] - दस्तावेज़ ऑब्जेक्ट मॉडल](https://eloquentjavascript.net/14_dom.html)
+ * 📜 [डोम ट्री](https://javascript.info/dom-nodes)
+ * 📜 [जावास्क्रिप्ट में डोम को कैसे पार करें - Vojislav Grujić](https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e)
+ * 📜 [रेंडर ट्री कंस्ट्रक्शन - इलिया ग्रिगोरिक](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
 
- ### Videos
+ ### वीडियो
 
- * 🎥 [JavaScript DOM — The Net Ninja](https://www.youtube.com/watch?v=FIORjGvT0kk)
- * 🎥 [JavaScript DOM Crash Course — Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc)
-
-**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
-
----
-
-## 14. Factories and Classes
-
-### Articles
-
- * 📜 [How To Use Classes in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
- * 📜 [Javascript Classes — Under The Hood — Majid](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
- * 📜 [ES6 Classes — Nathaniel Foster](https://www.javascriptjanuary.com/blog/es6-classes)
- * 📜 [Better JavaScript with ES6, Pt. II: A Deep Dive into Classes ― Peleke Sengstacke](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
- * 📜 [Understand the Factory Design Pattern in Plain JavaScript — Aditya Agarwal](https://medium.com/front-end-hacking/understand-the-factory-design-pattern-in-plain-javascript-20b348c832bd)
- * 📜 [Factory Functions in JavaScript — Josh Miller](https://atendesigngroup.com/blog/factory-functions-javascript)
- * 📜 [The Factory Pattern in JS ES6 — SnstsDev](https://medium.com/@SntsDev/the-factory-pattern-in-js-es6-78f0afad17e9)
- * 📜 [Class vs Factory function: exploring the way forward — Cristi Salcescu](https://medium.freecodecamp.org/class-vs-factory-function-exploring-the-way-forward-73258b6a8d15)
- * 📜 [How ES6 classes really work and how to build your own — Robert Grosse](https://medium.com/@robertgrosse/how-es6-classes-really-work-and-how-to-build-your-own-fd6085eb326a)
-
- ### Videos
-
- * 🎥 [JavaScript Factory Functions — Programming with Mosh](https://www.youtube.com/watch?v=jpegXpQpb3o)
- * 🎥 [Factory Functions in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=ImwrezYhw4w)
- * 🎥 [Javascript Tutorial Function Factories — Crypto Chan](https://www.youtube.com/watch?v=R7-IwpH80UE)
+ * 🎥 [जावास्क्रिप्ट डोम - नेट निंजा](https://www.youtube.com/watch?v=FIORjGvT0kk)
+ * 🎥 [जावास्क्रिप्ट डोम क्रैश कोर्स - ट्रैवर्स मीडिया](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
-## 15. this, call, apply and bind
+## 14. कारखानों और वर्गों
 
-### Articles
+### सामग्री
 
- * 📜 [How-to: call() , apply() and bind() in JavaScript — Niladri Sekhar Dutta](https://www.codementor.io/niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp)
- * 📜 [JavaScript’s Apply, Call, and Bind Methods are Essential for JavaScript Professionals — Richard Bovell](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
- * 📜 [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript — Tyler McGinnis](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
- * 📜 [Javascript: call(), apply() and bind() — Omer Goldberg](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
- * 📜 [The difference between call / apply / bind — Ivan Sifrim](https://medium.com/@ivansifrim/the-differences-between-call-apply-bind-276724bb825b)
- * 📜 [call(), apply() and bind() methods in JavaScript](https://tech.io/playgrounds/9799/learn-solve-call-apply-and-bind-methods-in-javascript)
- * 📜 [Mastering 'this' in JavaScript: Callbacks and bind(), apply(), call() — Michelle Gienow](https://thenewstack.io/mastering-javascript-callbacks-bind-apply-call/)
+ * 📜 [जावास्क्रिप्ट में कक्षाओं का उपयोग कैसे करें - तानिया रसिया](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
+ * 📜 [जावास्क्रिप्ट क्लासेस - हूड के तहत - मजीद](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
+ * 📜 [ईएस 6 कक्षाएं - नथनील फोस्टर](https://www.javascriptjanuary.com/blog/es6-classes)
+ * 📜 [ईएस 6, पीटी के साथ बेहतर जावास्क्रिप्ट। II: कक्षाओं में एक गहरी गोता - Peleke Sengstacke](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
+ * 📜 [सादा जावास्क्रिप्ट में फैक्टरी डिजाइन पैटर्न को समझें - आदित्य अग्रवाल](https://medium.com/front-end-hacking/understand-the-factory-design-pattern-in-plain-javascript-20b348c832bd)
+ * 📜 [जावास्क्रिप्ट में फैक्टरी कार्य - जोश मिलर](https://atendesigngroup.com/blog/factory-functions-javascript)
+ * 📜 [जेएस ES6 में फैक्टरी पैटर्न - SnstsDev](https://medium.com/@SntsDev/the-factory-pattern-in-js-es6-78f0afad17e9)
+ * 📜 [क्लास बनाम फैक्टरी फ़ंक्शन: आगे बढ़ने के तरीके की खोज - क्रिस्टी साल्सेस्कु](https://medium.freecodecamp.org/class-vs-factory-function-exploring-the-way-forward-73258b6a8d15)
+ * 📜 [ईएस 6 कक्षाएं वास्तव में कैसे काम करती हैं और अपना खुद का निर्माण कैसे करें - रॉबर्ट ग्रोस](https://medium.com/@robertgrosse/how-es6-classes-really-work-and-how-to-build-your-own-fd6085eb326a)
+
+ ### वीडियो
+
+ * 🎥 [जावास्क्रिप्ट फैक्टरी कार्य - मोश के साथ प्रोग्रामिंग](https://www.youtube.com/watch?v=jpegXpQpb3o)
+ * 🎥 [जावास्क्रिप्ट में फैक्टरी कार्य - मज़ा मज़ा समारोह](https://www.youtube.com/watch?v=ImwrezYhw4w)
+ * 🎥 [जावास्क्रिप्ट ट्यूटोरियल फ़ंक्शन फैक्ट्रीज़ - क्रिप्टो चैन](https://www.youtube.com/watch?v=R7-IwpH80UE)
+
+**[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
+
+---
+
+## 15. यह, कॉल, आवेदन और बाध्य
+
+### सामग्री
+
+ * 📜 [कैसे करें: कॉल (), जावास्क्रिप्ट में लागू () और बाइंड () - निलाद्री सेखर दत्ता](https://www.codementor.io/niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp)
+ * 📜 [जावास्क्रिप्ट के लागू, कॉल, और बाइंड विधि जावास्क्रिप्ट पेशेवरों के लिए आवश्यक हैं - रिचर्ड बोवेल](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
+ * 📜 [डब्ल्यूटीएफ यह है - इस कीवर्ड को समझना, जावास्क्रिप्ट में कॉल करें, लागू करें और बाध्य करें - टायलर मैकगिनीस](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
+ * 📜 [जावास्क्रिप्ट: कॉल (), लागू करें () और बाइंड () - ओमर गोल्डबर्ग](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
+ * 📜 [कॉल / लागू / बाइंड - इवान सिफ्रिम के बीच का अंतर](https://medium.com/@ivansifrim/the-differences-between-call-apply-bind-276724bb825b)
+ * 📜 [कॉल (), जावास्क्रिप्ट में लागू () और बाइंड () विधियों](https://tech.io/playgrounds/9799/learn-solve-call-apply-and-bind-methods-in-javascript)
+ * 📜 [जावास्क्रिप्ट में 'यह' मास्टरिंग: कॉलबैक और बाइंड (), लागू करें (), कॉल () - मिशेल गिएनो](https://thenewstack.io/mastering-javascript-callbacks-bind-apply-call/)
  * 📜 [JavaScript’s apply, call, and bind explained by hosting a cookout — Kevin Kononenko](https://dev.to/kbk0125/javascripts-apply-call-and-bind-explained-by-hosting-a-cookout-32jo)
  * 📜 [How AND When to use bind, call, and apply in Javascript — Eigen X](https://www.eigenx.com/blog/https/mediumcom/eigen-x/how-and-when-to-use-bind-call-and-apply-in-javascript-77b6f42898fb)
  * 📜 [JavaScript .bind() vs .apply() and .call() — Hack Sparrow](https://www.hacksparrow.com/javascript-bind-vs-apply-and-call.html)
