@@ -124,7 +124,7 @@
  * 📜 [(नहीं) जावास्क्रिप्ट में सब कुछ एक वस्तु है - डैनियल ली](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
  * 📜 [जावास्क्रिप्ट डेटा प्रकार और डेटा संरचनाएं - एमडीएन](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
 
-### Videos
+### वीडियो
 
  * 🎥 [जावास्क्रिप्ट संदर्भ बनाम आदिम प्रकार - अकादमिक](https://www.youtube.com/watch?v=9ooYYRLdg_g)
  * 🎥 [जावास्क्रिप्ट आदिम प्रकार - साइमन सेज़ आईटी](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
@@ -444,7 +444,7 @@
  * 🎥 [जावास्क्रिप्ट (कॉल, बाइंड, लागू) — curious aatma](https://www.youtube.com/watch?v=Uy0NOXLBraE)
  * 🎥 [ईएस2017 की दुनिया में कार्यों को समझना और 'यह' - ब्रायन ह्यूजेस](https://www.youtube.com/watch?v=AOSYY1_np_4)
  * 🎥 [बाध्य और यह - जावास्क्रिप्ट में ऑब्जेक्ट क्रिएशन - FunFunFunction](https://www.youtube.com/watch?v=GhbhD1HR5vk)
- * 🎥 [कॉल, लागू करें और बाध्य कार्यों के जावास्क्रिप्ट प्रैक्टिकल एप्लीकेशन — techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
+ * 🎥 [कॉल, लागू करें और बाध्य कार्यों के जावास्क्रिप्ट प्रैक्टिकल एप्लीकेशन - टेकसिथ](https://www.youtube.com/watch?v=AYVYxezrMWA)
  * 🎥 [जेएस फंक्शन विधि कॉल (), लागू (), और बाइंड () - स्टीव ग्रिफिथ](https://www.youtube.com/watch?v=uBdH0iB1VDM)
  
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
@@ -493,11 +493,11 @@
  * 📜 [जावास्क्रिप्ट में कक्षाएं - समझाया - डैनियल ली](http://blog.brew.com.hk/classes-in-javascript-explained/)
  * 📜 [आप जेएस नहीं जानते: यह और ऑब्जेक्ट प्रोटोटाइप - केली सिम्पसन](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch4.md)
 
- ### Videos
+ ### वीडियो
 
  * 🎥 [जावास्क्रिप्ट प्रोटोटाइप विरासत - एवलक्स](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
- * 🎥 [जावास्क्रिप्ट प्रोटोटाइप विरासत समझाया pt. I — techsith](https://www.youtube.com/watch?v=7oNWNlMrkpc)
- * 🎥 [जावास्क्रिप्ट प्रोटोटाइप विरासत समझाया pt. II — techsith](https://www.youtube.com/watch?v=uIlj6_z_wL8)
+ * 🎥 [जावास्क्रिप्ट प्रोटोटाइप विरासत समझाया pt. I - टेकसिथ](https://www.youtube.com/watch?v=7oNWNlMrkpc)
+ * 🎥 [जावास्क्रिप्ट प्रोटोटाइप विरासत समझाया pt. II - टेकसिथ](https://www.youtube.com/watch?v=uIlj6_z_wL8)
  * 🎥 [जावास्क्रिप्ट प्रोटोटाइप विरासत समझाया - केली रॉबिन्सन](https://www.youtube.com/watch?v=qMO-LTOrJaE)
  * 🎥 [Advanced Javascript - Prototypal Inheritance In 1 Minute](https://www.youtube.com/watch?v=G6l5CHl67HQ)
  * 🎥 [An Overview Of Classical Javascript Classes and Prototypal Inheritance — Pentacode](https://www.youtube.com/watch?v=phwzuiJJPpQ)
@@ -516,7 +516,7 @@
 
 ### Articles
 
- * 📜 [Object.create() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
+ * 📜 [Object.create() - एमडीएन](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
  * 📜 [Object.create in JavaScript — Rupesh Mishra](https://hackernoon.com/object-create-in-javascript-fa8674df6ed2)
  * 📜 [Object.create(): the New Way to Create Objects in JavaScript — Rob Gravelle](https://www.htmlgoodies.com/beyond/javascript/object.create-the-new-way-to-create-objects-in-javascript.html)
  * 📜 [Basic Inheritance with Object.create — Joshua Clanton](http://adripofjavascript.com/blog/drips/basic-inheritance-with-object-create.html)
@@ -525,14 +525,14 @@
  * 📜 [JavaScript Object Creation: Patterns and Best Practices — Jeff Mott](https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/)
  * 📜 [Dealing With Objects in JavaScript With Object.assign, Object.keys and hasOwnProperty](https://alligator.io/js/dealing-with-objects/)
  * 📜 [Copying Objects in JavaScript ― Orinami Olatunji](https://scotch.io/bar-talk/copying-objects-in-javascript)
- * 📜 [Object.assign() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+ * 📜 [Object.assign() - एमडीएन](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
  * 📜 [JavaScript: Object.assign() — Thiago S. Adriano](https://codeburst.io/javascript-object-assign-bc9696dcbb6e)
  * 📜 [How to deep clone a JavaScript Object — Flavio Copes](https://flaviocopes.com/how-to-clone-javascript-object/)
 
- ### Videos
+ ### वीडियो
 
  * 🎥 [Object.assign() explained — Aaron Writes Code](https://www.youtube.com/watch?v=aw7NfYhR5rc)
- * 🎥 [Object.assign() Method — techsith](https://www.youtube.com/watch?v=9Ky4X6inpi4)
+ * 🎥 [Object.assign() Method - टेकसिथ](https://www.youtube.com/watch?v=9Ky4X6inpi4)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
@@ -549,12 +549,12 @@
  * 📜 [जावास्क्रिप्ट - चेन मानचित्र, फ़िल्टर, और कम करने के लिए जानें - ब्रैंडन मोरेली](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4)
  * 📜 [मानचित्र, कम, फ़िल्टर और ES6 - दीपक गुप्ता के साथ जावास्क्रिप्ट डेटा संरचना](https://codeburst.io/write-beautiful-javascript-with-%CE%BB-fp-es6-350cd64ab5bf)
  * 📜 [मानचित्र को समझना, जावास्क्रिप्ट में फ़िल्टर करना और कम करना - लुकू ग्रुइज](https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464)
- * 📜 [Functional Programming in JS: map, filter, reduce (Pt. 5) — Omer Goldberg](https://hackernoon.com/functional-programming-in-js-map-filter-reduce-pt-5-308a205fdd5f)
- * 📜 [JavaScript: Map, Filter, Reduce — William S. Vincent](https://wsvincent.com/functional-javascript-map-filter-reduce/)
- * 📜 [Arrow Functions: Fat and Concise Syntax in JavaScript — Kyle Pennell](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
- * 📜 [JavaScript: Arrow Functions for Beginners — Brandon Morelli](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
- * 📜 [When (and why) you should use ES6 arrow functions — and when you shouldn’t — Cynthia Lee](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
- * 📜 [JavaScript — Learn & Understand Arrow Functions — Brandon Morelli](https://codeburst.io/javascript-learn-understand-arrow-functions-fe2083533946)
+ * 📜 [जेएस में कार्यात्मक प्रोग्रामिंग: मानचित्र, फ़िल्टर, कम करें (Pt. 5) — Omer Goldberg](https://hackernoon.com/functional-programming-in-js-map-filter-reduce-pt-5-308a205fdd5f)
+ * 📜 [जावास्क्रिप्ट: मानचित्र, फ़िल्टर, कम करें - विलियम एस विन्सेंट](https://wsvincent.com/functional-javascript-map-filter-reduce/)
+ * 📜 [तीर कार्य: जावास्क्रिप्ट में वसा और संक्षिप्त सिंटेक्स - केली पेनेल](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
+ * 📜 [जावास्क्रिप्ट: शुरुआती के लिए तीर कार्य - ब्रैंडन मोरेली](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
+ * 📜 [जब (और क्यों) आपको ES6 तीर फ़ंक्शंस का उपयोग करना चाहिए - और जब आपको नहीं करना चाहिए - सिंथिया ली](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
+ * 📜 [जावास्क्रिप्ट - एरो फंक्शंस सीखें और समझें - ब्रैंडन मोरेली](https://codeburst.io/javascript-learn-understand-arrow-functions-fe2083533946)
  * 📜 [(JavaScript )=> Arrow functions — sigu](https://medium.com/podiihq/javascript-arrow-functions-27d4c3334b83)
  * 📜 [A possibility to use Async/Await for filter(), find(), forEach(), map() and reduce() methods in Array — Ruwan Geeganage](https://www.linkedin.com/pulse/possibility-use-asyncawait-filter-find-foreach-map-reduce-geeganage/)
  * 📜 [Javascript.reduce() — Paul Anderson](https://medium.com/@panderson.dev/javascript-reduce-79aab078da23)
@@ -562,7 +562,7 @@
  * 📜 [Simplify your JavaScript – Use .map(), .reduce(), and .filter() — Etienne Talbot](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
  * 📜 [JavaScript’s Reduce Method Explained By Going On a Diet — Kevin Kononenko](https://blog.codeanalogies.com/2018/07/24/javascripts-reduce-method-explained-by-going-on-a-diet/)
 
- ### Videos
+ ### वीडियो
 
  * 🎥 [Map, Filter and Reduce — Lydia Hallie](https://www.youtube.com/watch?v=UXiYii0Y7Nw)
  * 🎥 [Functional JavaScript: Map, forEach, Reduce, Filter — Theodore Anderson](https://www.youtube.com/watch?v=vytzLlY_wmU)
@@ -599,7 +599,7 @@
  * 📜 [JavaScript: Pure Functions — William S. Vincent](https://wsvincent.com/javascript-pure-functions/)
  * 📜 [Functional programming paradigms in modern JavaScript: Pure functions — Alexander Kondov](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-pure-functions-797d9abbee1)
 
- ### Videos
+ ### वीडियो
 
  * 🎥 [Pure Functions — Hexlet](https://www.youtube.com/watch?v=dZ41D6LDSBg)
  * 🎥 [Pure Functions - Functional Programming in JavaScript — Paul McBride](https://www.youtube.com/watch?v=Jh_Uzqzz_wM)
@@ -615,9 +615,9 @@
 
 ### Articles
 
- * 📜 [Closures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+ * 📜 [Closures - एमडीएन](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
  * 📜 [I never understood JavaScript closures — Olivier De Meulder](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
- * 📜 [Closure — JavaScript.Info](https://javascript.info/closure)
+ * 📜 [Closure - जावास्क्रिप्ट.इन्फो](https://javascript.info/closure)
  * 📜 [Understand JavaScript Closures With Ease — Richard Bovell](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
  * 📜 [Understanding JavaScript Closures — Codesmith](https://codeburst.io/understanding-javascript-closures-da6aab330302)
  * 📜 [Understand Closures in JavaScript — Brandon Morelli](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
@@ -631,11 +631,11 @@
  * 📜 [Simplified JavaScript: Getting Started with Closures — Code Like A Girl](https://code.likeagirl.io/simplified-javascript-getting-started-with-closures-f40f65317d00)
  * 📜 [The Ultimate Guide to Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
 
- ### Videos
+ ### वीडियो
 
- * 🎥 [Javascript Closure — techsith](https://www.youtube.com/watch?v=71AtaJpJHw0)
+ * 🎥 [Javascript Closure - टेकसिथ](https://www.youtube.com/watch?v=71AtaJpJHw0)
  * 🎥 [Closures — Fun Fun Function](https://www.youtube.com/watch?v=CQqwU2Ixu-U)
- * 🎥 [Closures in JavaScript — techsith](https://www.youtube.com/watch?v=-xqJo5VRP4A)
+ * 🎥 [Closures in JavaScript - टेकसिथ](https://www.youtube.com/watch?v=-xqJo5VRP4A)
  * 🎥 [JavaScript Closures 101: What is a closure? — JavaScript Tutorials](https://www.youtube.com/watch?v=yiEeiMN2Khs)
  * 🎥 [Closures — freeCodeCamp](https://www.youtube.com/watch?v=1JsJx1x35c0)
  * 🎥 [JavaScript Closures — CodeWorkr](https://www.youtube.com/watch?v=-rLrGAXK8WE)
@@ -659,7 +659,7 @@
  * 📜 [Just a reminder on how to use high order functions — Pedro Filho](https://github.com/pedroapfilho/high-order-functions)
  * 📜 [Understanding Higher-Order Functions in JavaScript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
 
- ### Videos
+ ### वीडियो
 
  * 🎥 [JavaScript Higher Order Functions & Arrays — Traversy Media](https://www.youtube.com/watch?v=rRgD1yVwIvE)
  * 🎥 [Higher Order Functions — Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk)
@@ -684,9 +684,9 @@
  * 📜 [Recursion, iteration and tail calls in JS — loverajoel](http://www.jstips.co/en/javascript/recursion-iteration-and-tail-calls-in-js/)
  * 📜 [Understanding Recursion in JavaScript with Confidence — Jay](https://www.thecodingdelight.com/understanding-recursion-javascript/)
 
- ### Videos
+ ### वीडियो
 
- * 🎥 [Recursion In JavaScript — techsith](https://www.youtube.com/watch?v=VtG0WAUvq2w)
+ * 🎥 [Recursion In JavaScript - टेकसिथ](https://www.youtube.com/watch?v=VtG0WAUvq2w)
  * 🎥 [Recursion — Fun Fun Function](https://www.youtube.com/watch?v=k7-N8R0-KY4)
  * 🎥 [Recursion and Recursive Functions — Hexlet](https://www.youtube.com/watch?v=vLhHyGTkjCs)
  * 🎥 [Recursion: Recursion() — JS Monthly — Lucas da Costa](https://www.youtube.com/watch?v=kGXVsd8pBLw)
@@ -707,7 +707,7 @@
  * 📜 [ES6 WeakMaps, Sets, and WeakSets in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-weakmaps-sets-and-weaksets-in-depth)
  * 📜 [Introduction to Sets in JavaScript — Alligator.io](https://alligator.io/js/sets-introduction/)
  * 📜 [Introduction to Maps in JavaScript — Alligator.io](https://alligator.io/js/maps-introduction/)
- * 📜 [Map, Set, WeakMap and WeakSet — JavaScript.Info](https://javascript.info/map-set-weakmap-weakset)
+ * 📜 [Map, Set, WeakMap and WeakSet - जावास्क्रिप्ट.इन्फो](https://javascript.info/map-set-weakmap-weakset)
  * 📜 [Maps in ES6 - A Quick Guide — Ben Mildren](https://dev.to/mildrenben/maps-in-es6---a-quick-guide-35pk)
  * 📜 [ES6 — Set vs Array — What and when? — Maya Shavin](https://medium.com/front-end-hacking/es6-set-vs-array-what-and-when-efc055655e1a)
  * 📜 [ES6 — Map vs Object — What and when? — Maya Shavin](https://medium.com/front-end-hacking/es6-map-vs-object-what-and-when-b80621932373)
@@ -716,14 +716,14 @@
  * 📜 [How to create an array of unique values in JavaScript using Sets — Claire Parker-Jones](https://dev.to/claireparker/how-to-create-an-array-of-unique-values-in-javascript-using-sets-5dg6)
  * 📜 [What You Should Know About ES6 Maps — Just Chris](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
  * 📜 [ES6 Maps in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-maps-in-depth)
- * 📜 [Generator — MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+ * 📜 [Generator - एमडीएन web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 * 📜 [What are JavaScript Generators and how to use them — Vladislav Stepanov](https://codeburst.io/what-are-javascript-generators-and-how-to-use-them-c6f2713fd12e)
 * 📜 [Understanding JavaScript Generators With Examples  — Arfat Salman](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
 * 📜 [The Basics of ES6 Generators — Kyle Simpson](https://davidwalsh.name/es6-generators)
 
 
 
- ### Videos
+ ### वीडियो
 
  * 🎥 [JavaScript ES6 / ES2015 Set, Map, WeakSet and WeakMap — Traversy Media](https://www.youtube.com/watch?v=ycohYSx5h9w)
  * 🎥 [The Differences between ES6 Maps and Sets — Steve Griffith](https://www.youtube.com/watch?v=m4abICrldQI)
@@ -737,7 +737,7 @@
 
 ### Articles
 
- * 📜 [Promise — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+ * 📜 [Promise - एमडीएन](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
  * 📜 [JavaScript Promises for Dummies ― Jecelyn Yeen](https://scotch.io/tutorials/javascript-promises-for-dummies)
  * 📜 [Understanding promises in JavaScript — Gokul N K](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
  * 📜 [Master the JavaScript Interview: What is a Promise? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
@@ -753,7 +753,7 @@
  * 📜 [ES6 Promises in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-promises-in-depth)
  * 📜 [Playing with Javascript Promises: A Comprehensive Approach — Rajesh Babu](https://codeburst.io/playing-with-javascript-promises-a-comprehensive-approach-25ab752c78c3)
 
- ### Videos
+ ### वीडियो
 
  * 🎥 [Let's Learn ES6 - Promises — Ryan Christiani](https://www.youtube.com/watch?v=vQ3MoXnKfuQ)
  * 🎥 [JavaScript ES6 / ES2015 Promises — Traversy Media](https://www.youtube.com/watch?v=XJEHuBZQ5dU)
@@ -769,7 +769,7 @@
 
 ### Articles
 
- * 📜 [async/await — JavaScript.Info](https://javascript.info/async-await)
+ * 📜 [async/await - जावास्क्रिप्ट.इन्फो](https://javascript.info/async-await)
  * 📜 [Understanding async/await in Javascript — Gokul N K](https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c)
  * 📜 [Asynchronous Programming — Eloquent JavaScript](https://eloquentjavascript.net/11_async.html)
  * 📜 [Exploring Async/Await Functions in JavaScript — Alligator.io](https://alligator.io/js/async-functions/)
@@ -785,7 +785,7 @@
  * 📜 [Flow Control in Modern JS: Callbacks to Promises to Async/Await — Craig Buckler](https://www.sitepoint.com/flow-control-callbacks-promises-async-await/)
  * 📜 [JavaScript: Promises and Why Async/Await Wins the Battle — Nick Parsons](https://dzone.com/articles/javascript-promises-and-why-asyncawait-wins-the-ba)
 
- ### Videos
+ ### वीडियो
 
  * 🎥 [Async + Await — Wes Bos](https://www.youtube.com/watch?v=9YkUCxvaLEk)
  * 🎥 [Asynchrony: Under the Hood — Shelley Vohr](https://www.youtube.com/watch?v=SrNQS8J67zc)
@@ -811,7 +811,7 @@
  * 📜 [Collection of classic computer science paradigms in JavaScript](https://github.com/nzakas/computer-science-in-javascript)
  * 📜 [All the things you didn't know you wanted to know about data structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures)
 
- ### Videos
+ ### वीडियो
 
  * 🎥 [Algorithms in JavaScript — Seth Koch](https://www.youtube.com/watch?v=PylQlISSH8U&list=PLujX4CIdBGCa-65N3uN8CDbUMrYsHBrz-)
  * 🎥 [Algorithms In Javascript | Ace Your Interview — Eduonix Learning Solutions](https://www.youtube.com/watch?v=H_EBPZgiAas&list=PLDmvslp_VR0zYUSth_8O69p4_cmvZEgLa)
@@ -833,7 +833,7 @@
  * 📜 [Time Complexity Analysis in JavaScript — Jennifer Bland](https://www.jenniferbland.com/time-complexity-analysis-in-javascript/)
  * 📜 [Algorithms in plain English: time complexity and Big-O Notation — Michael Olorunnisola](https://medium.freecodecamp.org/time-is-complex-but-priceless-f0abd015063c)
 
-### Videos
+### वीडियो
 
  * 🎥 [JavaScript: Intro to Big O Notation and Function Runtime — Eric Traub](https://www.youtube.com/watch?v=HgA5VOFan5E)
  * 🎥 [Essential Big O for JavaScript Developers — Dave Smith](https://www.youtube.com/watch?v=KatlvCFHPRo)
@@ -860,12 +860,12 @@
 
 ---
 
-## 30. Inheritance, Polymorphism and Code Reuse
+## 30. विरासत, बहुरूपता और कोड पुन: उपयोग
 
-### Articles
+### सामग्री
 
- * 📜 [Class inheritance, super — JavaScript.Info](https://javascript.info/class-inheritance)
- * 📜 [Inheritance in JavaScript — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+ * 📜 [कक्षा विरासत, सुपर - जावास्क्रिप्ट.इन्फो](https://javascript.info/class-inheritance)
+ * 📜 [जावास्क्रिप्ट में विरासत - एमडीएन](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
  * 📜 [Inheritance in JavaScript — Rupesh Mishra](https://hackernoon.com/inheritance-in-javascript-21d2b82ffa6f)
  * 📜 [Simple Inheritance with JavaScript — David Catuhe](https://www.sitepoint.com/simple-inheritance-javascript/)
  * 📜 [JavaScript — Inheritance, delegation patterns and Object linking — NC Patro](https://codeburst.io/javascript-inheritance-25fe61ab9f85)
@@ -873,7 +873,7 @@
  * 📜 [Program Like Proteus — A beginner’s guide to polymorphism in Javascript — Sam Galson](https://medium.com/yld-engineering-blog/program-like-proteus-a-beginners-guide-to-polymorphism-in-javascript-867bea7c8be2)
  * 📜 [Object-oriented JavaScript: A Deep Dive into ES6 Classes — Jeff Mott](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
 
-  ### Videos
+  ### वीडियो
 
  * 🎥 [Inheritance in JavaScript — kudvenkat](https://www.youtube.com/watch?v=yXlFR81tDBM)
  * 🎥 [JavaScript ES6 Classes and Inheritance — Traversy Media](https://www.youtube.com/watch?v=RBLIm5LMrmc)
