@@ -428,24 +428,24 @@
  * 📜 [कॉल (), जावास्क्रिप्ट में लागू () और बाइंड () विधियों](https://tech.io/playgrounds/9799/learn-solve-call-apply-and-bind-methods-in-javascript)
  * 📜 [जावास्क्रिप्ट में 'यह' मास्टरिंग: कॉलबैक और बाइंड (), लागू करें (), कॉल () - मिशेल गिएनो](https://thenewstack.io/mastering-javascript-callbacks-bind-apply-call/)
  * 📜 [JavaScript’s apply, call, and bind explained by hosting a cookout — Kevin Kononenko](https://dev.to/kbk0125/javascripts-apply-call-and-bind-explained-by-hosting-a-cookout-32jo)
- * 📜 [How AND When to use bind, call, and apply in Javascript — Eigen X](https://www.eigenx.com/blog/https/mediumcom/eigen-x/how-and-when-to-use-bind-call-and-apply-in-javascript-77b6f42898fb)
- * 📜 [JavaScript .bind() vs .apply() and .call() — Hack Sparrow](https://www.hacksparrow.com/javascript-bind-vs-apply-and-call.html)
- * 📜 [call() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
- * 📜 [bind() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
- * 📜 [apply() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
- * 📜 [What is 'this' in JavaScript? — Daniel Li](http://blog.brew.com.hk/what-is-this-in-javascript/)
- * 📜 [Let me explain to you what is `this`. (Javascript) — Jason Yu](https://dev.to/ycmjason/let-me-explain-to-you-what-is-this-javascript-44ja)
- * 📜 [Understanding the “this” Keyword in JavaScript — Pavan](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
+ * 📜 [कैसे और कब बाध्य, कॉल, और जावास्क्रिप्ट में लागू करने के लिए - Eigen एक्स](https://www.eigenx.com/blog/https/mediumcom/eigen-x/how-and-when-to-use-bind-call-and-apply-in-javascript-77b6f42898fb)
+ * 📜 [जावास्क्रिप्ट। बाइंड () बनाम .apply () और .call () - हैक स्पैरो](https://www.hacksparrow.com/javascript-bind-vs-apply-and-call.html)
+ * 📜 [कॉल () - एमडीएन](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
+ * 📜 [बांध () - एमडीएन](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
+ * 📜 [आवेदन करें () - एमडीएन](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+ * 📜 [जावास्क्रिप्ट में 'यह' क्या है? - डैनियल ली](http://blog.brew.com.hk/what-is-this-in-javascript/)
+ * 📜 [मैं आपको बताता हूं कि यह 'क्या है'। (जावास्क्रिप्ट) - जेसन यू](https://dev.to/ycmjason/let-me-explain-to-you-what-is-this-javascript-44ja)
+ * 📜 [जावास्क्रिप्ट में "यह" कीवर्ड को समझना - पवन](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
 
-  ### Videos
+  ### वीडियो
 
- * 🎥 [JavaScript call, apply and bind — techsith](https://www.youtube.com/watch?v=c0mLRpw-9rI)
- * 🎥 [JavaScript Practical Applications of Call, Apply and Bind functions— techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
- * 🎥 [JavaScript (call, bind, apply) — curious aatma](https://www.youtube.com/watch?v=Uy0NOXLBraE)
- * 🎥 [Understanding Functions and 'this' In The World of ES2017 — Bryan Hughes](https://www.youtube.com/watch?v=AOSYY1_np_4)
- * 🎥 [bind and this - Object Creation in JavaScript - FunFunFunction](https://www.youtube.com/watch?v=GhbhD1HR5vk)
- * 🎥 [JavaScript Practical Applications of Call, Apply and Bind functions — techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
- * 🎥 [JS Function Methods call(), apply(), and bind() — Steve Griffith](https://www.youtube.com/watch?v=uBdH0iB1VDM)
+ * 🎥 [जावास्क्रिप्ट कॉल, लागू करें और बाध्य - techsith](https://www.youtube.com/watch?v=c0mLRpw-9rI)
+ * 🎥 [जावास्क्रिप्ट प्रैक्टिकल एप्लीकेशन कॉल, लागू करें और बाइंड फ़ंक्शन- techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
+ * 🎥 [जावास्क्रिप्ट (कॉल, बाइंड, लागू) — curious aatma](https://www.youtube.com/watch?v=Uy0NOXLBraE)
+ * 🎥 [ईएस2017 की दुनिया में कार्यों को समझना और 'यह' - ब्रायन ह्यूजेस](https://www.youtube.com/watch?v=AOSYY1_np_4)
+ * 🎥 [बाध्य और यह - जावास्क्रिप्ट में ऑब्जेक्ट क्रिएशन - FunFunFunction](https://www.youtube.com/watch?v=GhbhD1HR5vk)
+ * 🎥 [कॉल, लागू करें और बाध्य कार्यों के जावास्क्रिप्ट प्रैक्टिकल एप्लीकेशन — techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
+ * 🎥 [जेएस फंक्शन विधि कॉल (), लागू (), और बाइंड () - स्टीव ग्रिफिथ](https://www.youtube.com/watch?v=uBdH0iB1VDM)
  
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
