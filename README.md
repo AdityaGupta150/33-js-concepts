@@ -883,67 +883,67 @@
 
 ---
 
-## 31. Design Patterns
+## 31. डिजाइन पैटर्न्स
 
-### Articles
+### सामग्री
 
- * 📜 [4 JavaScript Design Patterns You Should Know — Devan Patel](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
- * 📜 [JavaScript Design Patterns – Beginner's Guide to Mobile Web Development — Soumyajit Pathak](https://medium.com/beginners-guide-to-mobile-web-development/javascript-design-patterns-25f0faaaa15)
- * 📜 [JavaScript Design Patterns — Akash Pal](https://medium.com/front-end-hacking/javascript-design-patterns-ed9d4c144c81)
- * 📜 [Javascript Design Patterns: What They Are & How To Use Them — Patrick Simpson](https://seesparkbox.com/foundry/javascript_design_patterns)
- * 📜 [JavaScript Design Patterns: Understanding Design Patterns in JavaScript - Sukhjinder Arora](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
- * 📜 [All the 23 (GoF) design patterns implemented in Javascript — Felipe Beline](https://github.com/fbeline/Design-Patterns-JS)
- * 📜 [Learning JavaScript Design Patterns — Addy Osmani ](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+ * 📜 [4 जावास्क्रिप्ट डिजाइन पैटर्न आपको पता होना चाहिए - देवन पटेल](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
+ * 📜 [जावास्क्रिप्ट डिज़ाइन पैटर्न - शुरुआती गाइड मोबाइल वेब डेवलपमेंट - सौमजीत पाठक](https://medium.com/beginners-guide-to-mobile-web-development/javascript-design-patterns-25f0faaaa15)
+ * 📜 [जावास्क्रिप्ट डिजाइन पैटर्न - आकाश पाल](https://medium.com/front-end-hacking/javascript-design-patterns-ed9d4c144c81)
+ * 📜 [जावास्क्रिप्ट डिजाइन पैटर्न: वे क्या हैं और उनका उपयोग कैसे करें - पैट्रिक सिम्पसन](https://seesparkbox.com/foundry/javascript_design_patterns)
+ * 📜 [जावास्क्रिप्ट डिजाइन पैटर्न: जावास्क्रिप्ट में डिजाइन पैटर्न को समझना - सुखजींदर अरोड़ा](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
+ * 📜 [जावास्क्रिप्ट - फेलिप बेलिन में लागू सभी 23 (GoF) डिजाइन पैटर्न](https://github.com/fbeline/Design-Patterns-JS)
+ * 📜 [जावास्क्रिप्ट डिजाइन पैटर्न सीखना - Addy Osmani ](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 
-  ### Videos
+  ### वीडियो
 
- * 🎥 [JavaScript Design Patterns — Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
- * 🎥 [JavaScript Patterns for 2017 — Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
+ * 🎥 [जावास्क्रिप्ट डिजाइन पैटर्न - Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
+ * 🎥 [2017 के लिए जावास्क्रिप्ट पैटर्न - स्कॉट एलन](https://www.youtube.com/watch?v=hO7mzO83N1Q)
 
  **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
 ---
 
-## 32. Partial Applications, Currying, Compose and Pipe
+## 32. आंशिक अनुप्रयोग, करी, रचना और पाइप
 
-### Articles
+### सामग्री
 
- * 📜 [Use function composition in JavaScript — Rémi](https://www.codementor.io/michelre/use-function-composition-in-javascript-gkmxos5mj)
- * 📜 [Currying in JavaScript ES6 — Adam Bene](https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400)
- * 📜 [Composition and Currying Elegance in JavaScript — Pragyan Das](https://medium.com/@pragyan88/writing-middleware-composition-and-currying-elegance-in-javascript-8b15c98a541b)
- * 📜 [Functional JavaScript: Function Composition For Every Day Use — Joel Thoms](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
- * 📜 [Functional Composition: compose() and pipe() — Anton Paras](https://medium.com/@acparas/what-i-learned-today-july-2-2017-ab9a46dbf85f)
- * 📜 [Why The Hipsters Compose Everything: Functional Composing In JavaScript — A. Sharif](http://busypeoples.github.io/post/functional-composing-javascript/)
- * 📜 [A Gentle Introduction to Functional JavaScript pt III: Functions for making functions — James Sinclair](https://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/)
- * 📜 [Curry And Compose (why you should be using something like ramda in your code) — jsanchesleao](https://jsleao.wordpress.com/2015/02/22/curry-and-compose-why-you-should-be-using-something-like-ramda-in-your-code/)
- * 📜 [Function Composition in JavaScript with Pipe — Andy Van Slaars](https://vanslaars.io/post/create-pipe-function/)
- * 📜 [Practical Functional JavaScript with Ramda — Andrew D'Amelio, Yuri Takhteyev](https://developer.telerik.com/featured/practical-functional-javascript-ramda/)
- * 📜 [The beauty in Partial Application, Currying, and Function Composition — Joel Thoms](https://hackernoon.com/the-beauty-in-partial-application-currying-and-function-composition-d885bdf0d574)
- * 📜 [Curry or Partial Application? — Eric Elliott](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
- * 📜 [Partial Application in JavaScript — Ben Alman](http://benalman.com/news/2012/09/partial-application-in-javascript/)
- * 📜 [Partial Application of Functions — Functional Reactive Ninja](https://hackernoon.com/partial-application-of-functions-dbe7d9b80760)
- * 📜 [Currying vs Partial Application — Deepak Gupta](https://codeburst.io/javascript-currying-vs-partial-application-4db5b2442be8)
- * 📜 [Partial Application in ECMAScript 2015 — Ragan Wald](http://raganwald.com/2015/04/01/partial-application.html)
- * 📜 [Functional Composition in Javascript — Joe Cortopassi](https://joecortopassi.com/articles/functional-composition-in-javascript/)
- * 📜 [So You Want to be a Functional Programmer pt. I — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
- * 📜 [So You Want to be a Functional Programmer pt. II — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
- * 📜 [So You Want to be a Functional Programmer pt. III — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
- * 📜 [So You Want to be a Functional Programmer pt. IV — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
- * 📜 [So You Want to be a Functional Programmer pt. V — Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
- * 📜 [Functional-Light JavaScript Chapter 3: Managing Function Inputs — Kyle Simpson](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch3.md)
- * 📜 [An introduction to the basic principles of Functional Programming — TK](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84)
- * 📜 [Concepts of Functional Programming in Javascript — TK](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+ * 📜 [जावास्क्रिप्ट में फ़ंक्शन संरचना का उपयोग करें - रेमी](https://www.codementor.io/michelre/use-function-composition-in-javascript-gkmxos5mj)
+ * 📜 [जावास्क्रिप्ट ES6 में आ रहा है - एडम बेने](https://blog.benestudio.co/currying-in-javascript-es6-540d2ad09400)
+ * 📜 [जावास्क्रिप्ट में रचना और करीबी लालित्य - प्रगति दास](https://medium.com/@pragyan88/writing-middleware-composition-and-currying-elegance-in-javascript-8b15c98a541b)
+ * 📜 [कार्यात्मक जावास्क्रिप्ट: हर दिन उपयोग के लिए फंक्शन संरचना - जोएल थॉमस](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
+ * 📜 [कार्यात्मक संरचना: लिखें () और पाइप () - एंटोन पारस](https://medium.com/@acparas/what-i-learned-today-july-2-2017-ab9a46dbf85f)
+ * 📜 [क्यों हिपस्टर्स सब कुछ लिखें: जावास्क्रिप्ट में कार्यात्मक रचना - ए शरीफ़](http://busypeoples.github.io/post/functional-composing-javascript/)
+ * 📜 [कार्यात्मक जावास्क्रिप्ट पीटी III के लिए एक जमे हुए परिचय III: कार्यों को बनाने के लिए कार्य - जेम्स सिंक्लेयर](https://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions/)
+ * 📜 [करी और लिखें (आपको अपने कोड में रामडा की तरह कुछ क्यों उपयोग करना चाहिए) - jsanchesleao](https://jsleao.wordpress.com/2015/02/22/curry-and-compose-why-you-should-be-using-something-like-ramda-in-your-code/)
+ * 📜 [पाइप के साथ जावास्क्रिप्ट में फंक्शन संरचना - एंडी वैन स्लैर्स](https://vanslaars.io/post/create-pipe-function/)
+ * 📜 [रामदा के साथ व्यावहारिक कार्यात्मक जावास्क्रिप्ट - एंड्रयू डी'एमेलियो, यूरी तख्तटेव](https://developer.telerik.com/featured/practical-functional-javascript-ramda/)
+ * 📜 [आंशिक अनुप्रयोग, करी, और समारोह संरचना में सौंदर्य - जोएल थॉमस](https://hackernoon.com/the-beauty-in-partial-application-currying-and-function-composition-d885bdf0d574)
+ * 📜 [करी या आंशिक आवेदन? - एरिक इलियट](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
+ * 📜 [जावास्क्रिप्ट में आंशिक आवेदन - बेन आलमैन](http://benalman.com/news/2012/09/partial-application-in-javascript/)
+ * 📜 [कार्यों का आंशिक अनुप्रयोग - कार्यात्मक प्रतिक्रियाशील निंजा](https://hackernoon.com/partial-application-of-functions-dbe7d9b80760)
+ * 📜 [करीबी बनाम आंशिक आवेदन - दीपक गुप्ता](https://codeburst.io/javascript-currying-vs-partial-application-4db5b2442be8)
+ * 📜 [ईसीएमएस्क्रिप्ट 2015 में आंशिक आवेदन - रागन वाल्ड](http://raganwald.com/2015/04/01/partial-application.html)
+ * 📜 [जावास्क्रिप्ट में कार्यात्मक संरचना - जो कोर्तोपासी](https://joecortopassi.com/articles/functional-composition-in-javascript/)
+ * 📜 [तो आप एक कार्यात्मक प्रोग्रामर बनना चाहते हैं pt.। मैं - चार्ल्स स्काफानी](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+ * 📜 [तो आप एक कार्यात्मक प्रोग्रामर बनना चाहते हैं -pt. II - चार्ल्स स्काफानी](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
+ * 📜 [तो आप एक कार्यात्मक प्रोग्रामर बनना चाहते हैं- pt. III - चार्ल्स स्काफानी](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
+ * 📜 [तो आप एक कार्यात्मक प्रोग्रामर बनना चाहते हैं -pt. IV - चार्ल्स स्काफानी](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
+ * 📜 [तो आप एक कार्यात्मक प्रोग्रामर बनना चाहते हैं -pt. V - चार्ल्स स्काफानी](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
+ * 📜 [कार्यात्मक-प्रकाश जावास्क्रिप्ट अध्याय 3: प्रबंधन फ़ंक्शन इनपुट - केली सिम्पसन](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch3.md)
+ * 📜 [कार्यात्मक प्रोग्रामिंग के बुनियादी सिद्धांतों के लिए एक परिचय - टीके](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84)
+ * 📜 [जावास्क्रिप्ट में कार्यात्मक प्रोग्रामिंग की अवधारणाओं - टीके](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
-  ### Videos
+  ### वीडियो
 
  * 🎥 [लिखें बनाम पाइप: जावास्क्रिप्ट में कार्यात्मक प्रोग्रामिंग — शैल्ड स्टूडियो](https://www.youtube.com/watch?v=Wl2ejJOqHUU)
- * 🎥 [JavaScript Functional Programing: Compose — Theodore Anderson](https://www.youtube.com/watch?v=jigHxo9YR30)
- * 🎥 [Function Composition - Functional JavaScript — NWCalvank](https://www.youtube.com/watch?v=mth5WpEc4Qs)
- * 🎥 [JavaScript Function Composition Explained — Theodore Anderson](https://www.youtube.com/watch?v=Uam37AlzPYw)
- * 🎥 [Let's code with function composition — Fun Fun Function](https://www.youtube.com/watch?v=VGB9HbL1GHk)
- * 🎥 [Partial Application vs. Currying — NWCalvank](https://www.youtube.com/watch?v=DzLkRsUN2vE)
- * 🎥 [JavaScript Partial Application — Theodore Anderson](https://www.youtube.com/watch?v=jkebgHEcvac)
+ * 🎥 [जावास्क्रिप्ट कार्यात्मक प्रोग्रामिंग: कम्पोज़ - थियोडोर एंडरसन](https://www.youtube.com/watch?v=jigHxo9YR30)
+ * 🎥 [फंक्शन संरचना - कार्यात्मक जावास्क्रिप्ट - NWCalvank](https://www.youtube.com/watch?v=mth5WpEc4Qs)
+ * 🎥 [जावास्क्रिप्ट फंक्शन संरचना समझाया - थियोडोर एंडरसन](https://www.youtube.com/watch?v=Uam37AlzPYw)
+ * 🎥 [फ़ंक्शन फ़ंक्शन के साथ कोड करें - मज़ा मज़ा फ़ंक्शन](https://www.youtube.com/watch?v=VGB9HbL1GHk)
+ * 🎥 [आंशिक अनुप्रयोग बनाम करी - एनडब्ल्यू कैलवान](https://www.youtube.com/watch?v=DzLkRsUN2vE)
+ * 🎥 [जावास्क्रिप्ट आंशिक अनुप्रयोग - थियोडोर एंडरसन](https://www.youtube.com/watch?v=jkebgHEcvac)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
