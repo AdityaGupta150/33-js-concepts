@@ -453,17 +453,17 @@
 
 ## 16. new, Constructor, instanceof and Instances
 
-### Articles
+### सामग्री
 
- * 📜 [JavaScript For Beginners: the ‘new’ operator — Brandon Morelli](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
- * 📜 [Let’s demystify JavaScript’s ‘new’ keyword — Cynthia Lee](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
- * 📜 [Constructor, operator "new" — JavaScript.Info](https://javascript.info/constructor-new)
- * 📜 [Understanding JavaScript Constructors — Faraz Kelhini](https://css-tricks.com/understanding-javascript-constructors/)
- * 📜 [Use Constructor Functions — Openclassrooms](https://openclassrooms.com/en/courses/3523231-learn-to-code-with-javascript/4379006-use-constructor-functions)
- * 📜 [Beyond `typeof` and `instanceof`: simplifying dynamic type checks — Dr. Axel Rauschmayer](http://2ality.com/2017/08/type-right.html)
- * 📜 [What Is the Instanceof Operator in JavaScript — appendTo](https://appendto.com/2016/10/what-is-the-instanceof-operator-in-javascript/)
- * 📜 [JavaScript instanceof vs typeof — Gary Rafferty](http://garyrafferty.com/2012/12/07/JavaScript-instanceof-vs-typeof.html)
- * 📜 [Function and Object, instances of each other — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
+ * 📜 [शुरुआती के लिए जावास्क्रिप्ट: 'नया' ऑपरेटर - ब्रैंडन मोरेली](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
+ * 📜 [चलो जावास्क्रिप्ट के 'नए' कीवर्ड को नष्ट कर दें - सिंथिया ली](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
+ * 📜 [कन्स्ट्रक्टर, ऑपरेटर "नया" - जावास्क्रिप्ट.इन्फो](https://javascript.info/constructor-new)
+ * 📜 [जावास्क्रिप्ट कन्स्ट्रक्टर्स को समझना - फराज केल्हिनी](https://css-tricks.com/understanding-javascript-constructors/)
+ * 📜 [कन्स्ट्रक्टर फ़ंक्शंस का उपयोग करें - ओपनक्लासरूम](https://openclassrooms.com/en/courses/3523231-learn-to-code-with-javascript/4379006-use-constructor-functions)
+ * 📜 [टाइपोफ' और 'instanceof` से परे: डायनामिक टाइप चेक को सरल बनाना - डॉ एक्सेल रूशमेयर](http://2ality.com/2017/08/type-right.html)
+ * 📜 [जावास्क्रिप्ट में इंस्टेंस ऑपरेटर क्या है - appendTo](https://appendto.com/2016/10/what-is-the-instanceof-operator-in-javascript/)
+ * 📜 [जावास्क्रिप्ट उदाहरण बनाम टाइपफ - गैरी रैफर्टी](http://garyrafferty.com/2012/12/07/JavaScript-instanceof-vs-typeof.html)
+ * 📜 [फंक्शन एंड ऑब्जेक्ट, एक दूसरे के उदाहरण - Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
 
 **[⬆ शीर्ष पर वापस जाएँ](#table-of-contents)**
 
@@ -471,34 +471,34 @@
 
 ## 17. Prototype Inheritance and Prototype Chain
 
-### Articles
+### सामग्री
 
- * 📜 [Javascript : Prototype vs Class — Valentin PARSY](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
- * 📜 [JavaScript engine fundamentals: optimizing prototypes — Mathias Bynens](https://mathiasbynens.be/notes/prototypes)
- * 📜 [JavaScript Prototype — NC Patro](https://codeburst.io/javascript-prototype-cb29d82b8809)
- * 📜 [Prototype in Javascript — Sandeep Ranjan](https://www.codementor.io/sandeepranjan2007/prototype-in-javascipt-knbve0lqo)
- * 📜 [Prototypes in JavaScript — Rupesh Mishra](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
- * 📜 [Prototype in JavaScript: it’s quirky, but here’s how it works — Pranav Jindal](https://medium.freecodecamp.org/prototype-in-js-busted-5547ec68872)
- * 📜 [Inheritance and the prototype chain — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
- * 📜 [Understanding JavaScript: Prototype and Inheritance — Alexander Kondov](https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2)
- * 📜 [Prototypal Inheritance — JavaScript.Info](https://javascript.info/prototype-inheritance)
- * 📜 [How To Work with Prototypes and Inheritance in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
- * 📜 [Master JavaScript Prototypes & Inheritance — Arnav Aggarwal](https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e)
- * 📜 [You Don't Know JS [Book] Chapter 5: Prototypes — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch5.md)
- * 📜 [JavaScript’s Prototypal Inheritance Explained Using CSS — Nash Vail](https://medium.freecodecamp.org/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4)
- * 📜 [Prototypal Inheritance in JavaScript — Jannis Redmann](https://gist.github.com/derhuerst/a585c4916b1c361cc6f0)
- * 📜 [Classical and Prototypical Inheritance in JavaScript — Danny Cornelisse](http://www.competa.com/blog/classical-prototypical-inheritance-javascript/)
- * 📜 [Demystifying ES6 Classes And Prototypal Inheritance ― Neo Ighodaro](https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance)
- * 📜 [Intro To Prototypal Inheritance — Dharani Jayakanthan](https://dev.to/danny/intro-to-prototypal-inheritance---js-9di)
- * 📜 [Classes in JavaScript - Explained — Daniel Li](http://blog.brew.com.hk/classes-in-javascript-explained/)
- * 📜 [You Don't Know JS: this & Object Prototypes — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch4.md)
+ * 📜 [जावास्क्रिप्ट: प्रोटोटाइप बनाम कक्षा - वैलेंटाइन पारसी](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
+ * 📜 [जावास्क्रिप्ट इंजन बुनियादी बातों: प्रोटोटाइप अनुकूलित - माथीस Bynens](https://mathiasbynens.be/notes/prototypes)
+ * 📜 [जावास्क्रिप्ट प्रोटोटाइप - एनसी पेट्रो](https://codeburst.io/javascript-prototype-cb29d82b8809)
+ * 📜 [जावास्क्रिप्ट में प्रोटोटाइप - संदीप रंजन](https://www.codementor.io/sandeepranjan2007/prototype-in-javascipt-knbve0lqo)
+ * 📜 [जावास्क्रिप्ट में प्रोटोटाइप - रुपेश मिश्रा](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
+ * 📜 [जावास्क्रिप्ट में प्रोटोटाइप: यह quirky है, लेकिन यहां है यह कैसे काम करता है - प्रणव जिंदल](https://medium.freecodecamp.org/prototype-in-js-busted-5547ec68872)
+ * 📜 [विरासत और प्रोटोटाइप श्रृंखला - एमडीएन](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+ * 📜 [जावास्क्रिप्ट को समझना: प्रोटोटाइप और विरासत - अलेक्जेंडर कोंडोव](https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2)
+ * 📜 [प्रोटोटाइप विरासत - जावास्क्रिप्ट.इन्फो](https://javascript.info/prototype-inheritance)
+ * 📜 [जावास्क्रिप्ट में प्रोटोटाइप और विरासत के साथ कैसे काम करें - तानिया रसिया](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+ * 📜 [मास्टर जावास्क्रिप्ट प्रोटोटाइप और विरासत - अर्नाव अग्रवाल](https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e)
+ * 📜 [आप जेएस नहीं जानते [पुस्तक] अध्याय 5: प्रोटोटाइप - केली सिम्पसन](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch5.md)
+ * 📜 [जावास्क्रिप्ट का प्रोटोटाइप विरासत सीएसएस का उपयोग करके समझाया गया - नैश वैल](https://medium.freecodecamp.org/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4)
+ * 📜 [जावास्क्रिप्ट में प्रोटोटाइप विरासत - जेनिस रेडमैन](https://gist.github.com/derhuerst/a585c4916b1c361cc6f0)
+ * 📜 [जावास्क्रिप्ट में शास्त्रीय और प्रोटोटाइपिकल विरासत - डैनी कॉर्नेलिस](http://www.competa.com/blog/classical-prototypical-inheritance-javascript/)
+ * 📜 [ईएस 6 कक्षाओं और प्रोटोटाइप विरासत को नष्ट करना - नियो इघोडारो](https://scotch.io/tutorials/demystifying-es6-classes-and-prototypal-inheritance)
+ * 📜 [प्रोटोटाइप विरासत का परिचय - धारानी जयकांत](https://dev.to/danny/intro-to-prototypal-inheritance---js-9di)
+ * 📜 [जावास्क्रिप्ट में कक्षाएं - समझाया - डैनियल ली](http://blog.brew.com.hk/classes-in-javascript-explained/)
+ * 📜 [आप जेएस नहीं जानते: यह और ऑब्जेक्ट प्रोटोटाइप - केली सिम्पसन](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch4.md)
 
  ### Videos
 
- * 🎥 [Javascript Prototype Inheritance — Avelx](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
- * 🎥 [JavaScript Prototype Inheritance Explained pt. I — techsith](https://www.youtube.com/watch?v=7oNWNlMrkpc)
- * 🎥 [JavaScript Prototype Inheritance Explained pt. II — techsith](https://www.youtube.com/watch?v=uIlj6_z_wL8)
- * 🎥 [JavaScript Prototype Inheritance Explained — Kyle Robinson](https://www.youtube.com/watch?v=qMO-LTOrJaE)
+ * 🎥 [जावास्क्रिप्ट प्रोटोटाइप विरासत - एवलक्स](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
+ * 🎥 [जावास्क्रिप्ट प्रोटोटाइप विरासत समझाया pt. I — techsith](https://www.youtube.com/watch?v=7oNWNlMrkpc)
+ * 🎥 [जावास्क्रिप्ट प्रोटोटाइप विरासत समझाया pt. II — techsith](https://www.youtube.com/watch?v=uIlj6_z_wL8)
+ * 🎥 [जावास्क्रिप्ट प्रोटोटाइप विरासत समझाया - केली रॉबिन्सन](https://www.youtube.com/watch?v=qMO-LTOrJaE)
  * 🎥 [Advanced Javascript - Prototypal Inheritance In 1 Minute](https://www.youtube.com/watch?v=G6l5CHl67HQ)
  * 🎥 [An Overview Of Classical Javascript Classes and Prototypal Inheritance — Pentacode](https://www.youtube.com/watch?v=phwzuiJJPpQ)
  * 🎥 [Object Oriented JavaScript - Prototype — The Net Ninja](https://www.youtube.com/watch?v=4jb4AYEyhRc)
