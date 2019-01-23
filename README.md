@@ -555,7 +555,7 @@
  * 📜 [जावास्क्रिप्ट: शुरुआती के लिए तीर कार्य - ब्रैंडन मोरेली](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
  * 📜 [जब (और क्यों) आपको ES6 तीर फ़ंक्शंस का उपयोग करना चाहिए - और जब आपको नहीं करना चाहिए - सिंथिया ली](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
  * 📜 [जावास्क्रिप्ट - एरो फंक्शंस सीखें और समझें - ब्रैंडन मोरेली](https://codeburst.io/javascript-learn-understand-arrow-functions-fe2083533946)
- * 📜 [(JavaScript )=> Arrow functions — sigu](https://medium.com/podiihq/javascript-arrow-functions-27d4c3334b83)
+ * 📜 [(जावास्क्रिप्ट) => तीर कार्य - सिगु](https://medium.com/podiihq/javascript-arrow-functions-27d4c3334b83)
  * 📜 [A possibility to use Async/Await for filter(), find(), forEach(), map() and reduce() methods in Array — Ruwan Geeganage](https://www.linkedin.com/pulse/possibility-use-asyncawait-filter-find-foreach-map-reduce-geeganage/)
  * 📜 [Javascript.reduce() — Paul Anderson](https://medium.com/@panderson.dev/javascript-reduce-79aab078da23)
  * 📜 [Why you should replace forEach with map and filter in JavaScript — Roope Hakulinen](https://gofore.com/en/why-you-should-replace-foreach/)
@@ -582,7 +582,7 @@
 
 ### Articles
 
- * 📜 [Javascript and Functional Programming — Pure Functions — Omer Goldberg](https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c)
+ * 📜 [जावास्क्रिप्ट और कार्यात्मक प्रोग्रामिंग - शुद्ध कार्य - ओमर गोल्डबर्ग](https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c)
  * 📜 [Master the JavaScript Interview: What is a Pure Function? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
  * 📜 [JavaScript: What Are Pure Functions And Why Use Them? — James Jeffery](https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c)
  * 📜 [Pure functions in JavaScript — @nicoespeon](http://www.nicoespeon.com/en/2015/01/pure-functions-javascript/)
