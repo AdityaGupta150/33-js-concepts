@@ -1,23 +1,11 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
+  <a href="https://github.com/leonardomso/33-js-concepts"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
   <br>
     <br>
   ३३ अवधारणाएं जो प्रत्येक जावास्क्रिप्ट डेवलपर को पता होना चाहिए
   <br><br>
 </h1>
-
-<p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
-  </a>
-  <a href="https://travis-ci.com/leonardomso/33-js-concepts">
-    <img src="https://img.shields.io/travis/leonardomso/33-js-concepts/master.svg?style=flat-square&label=build&logo=travis" alt="Build Status">
-  </a>
-</p>
 
 ## परिचय
 
@@ -42,7 +30,7 @@
 - [Persian](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
 - [Indonesian](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
 - [French](https://github.com/robinmetral/33-concepts-js) — Robin Métral
-- [Hindi](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan 
+- [English](https://github.com/leonardomso/33-js-concepts) — Vikas Chauhan 
 
 ---
 
